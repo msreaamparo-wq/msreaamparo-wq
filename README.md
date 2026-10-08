@@ -1,69 +1,61 @@
 <div align="center">
 
-<a href="https://github.com/msreaamparo-wq">
-  <img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo — Computer Science developer profile banner" />
-</a>
+<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo developer banner"/>
+
+### <code>> initializing profile...</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00C2FF&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Computer+Science+Student+%2F%2F+Developer;Flutter+%7C+Firebase+%7C+Supabase+%7C+Computer+Vision;turning+ideas+into+working+systems..." alt="Animated typing"/>
 
 <br/>
 
-<a href="#-overview">OVERVIEW</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#-featured-work">WORK</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#-technology">TECHNOLOGY</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#-github-activity">ACTIVITY</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/msreaamparo-wq?tab=repositories">REPOSITORIES</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Designing+practical+software+systems.;Building+mobile+experiences+with+Flutter.;Working+with+Firebase%2C+Supabase%2C+and+databases.;Exploring+computer+vision+and+applied+AI." alt="Animated developer roles" />
+<a href="#-profile-console">[ PROFILE ]</a>
+&nbsp;•&nbsp;
+<a href="#-build-log">[ BUILD LOG ]</a>
+&nbsp;•&nbsp;
+<a href="#-toolbox">[ TOOLBOX ]</a>
+&nbsp;•&nbsp;
+<a href="#-github-activity">[ ACTIVITY ]</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/msreaamparo-wq?tab=repositories">[ REPOS ]</a>
 
 </div>
 
 ---
 
-## ◉ Overview
+## ◉ Profile Console
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<details open>
+<summary><strong>💻 click to inspect</strong></summary>
 
-### Rea Jamila Amparo
-
-I’m a **Computer Science student and software developer** focused on building practical digital systems.
-
-My work spans **mobile application development, backend services, database-driven systems, and computer vision**. I enjoy taking a real-world problem, breaking it into smaller technical pieces, and turning the solution into something usable.
-
-I care about more than getting code to run. I aim for software that is **clear, maintainable, reliable, and intuitive to use**.
-
-</td>
-
-<td width="42%" valign="top">
-
-### Current Direction
+<br/>
 
 ```text
-MOBILE       Flutter
-BACKEND      Firebase / Supabase
-DATABASE     Firestore / PostgreSQL
-AI / CV      CNN / Image Analysis
-WORKFLOW     Git / GitHub
-DESIGN       UI / UX
+┌──────────────────────────────────────────────────────────────┐
+│  REA AMPARO / COMPUTER SCIENCE                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  role        :: student developer                            │
+│  mode        :: learning + building                          │
+│  interests   :: mobile • backend • databases • AI/CV         │
+│  toolkit     :: Flutter • Firebase • Supabase • Git          │
+│  philosophy  :: build → test → understand → improve          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### Development Principle
+I'm a **Computer Science student** who likes making things that actually work.
 
-> **Build → Test → Understand → Improve**
+I enjoy taking an idea, figuring out how the system should behave, building it, debugging it, and polishing the parts that users actually touch.
 
-</td>
-</tr>
-</table>
+My current interests are **mobile applications, backend systems, database-driven software, UI/UX, and computer vision**.
+
+</details>
 
 ---
 
-## ◉ Featured Work
+## ◉ Build Log
+
+> A few things I've worked on, experimented with, or learned through building.
 
 <div align="center">
 
@@ -71,33 +63,40 @@ DESIGN       UI / UX
 <tr>
 <td width="50%" valign="top">
 
-### TRACE
+### 📱 TRACE
+
 **SSG Attendance System**
 
-A student-organization attendance platform built around streamlined event attendance and verification workflows.
+A mobile attendance system exploring QR-based attendance, event workflows, verification, geolocation, and feedback.
 
-**Core stack**
-
-`Flutter` · `Firebase` · `Firestore` · `QR` · `Geolocation`
-
-<br/>
+```text
+Flutter
+Firebase
+Firestore
+QR
+Geolocation
+```
 
 <a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="Open TRACE repository" />
+<img src="https://img.shields.io/badge/EXPLORE-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore TRACE"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Cacao Computer Vision
+### 🌱 CACAO VISION
+
 **Black Pod Rot Severity**
 
-Academic computer-vision work focused on classifying **Black Pod Rot severity in cacao pods**.
+Academic computer-vision work focused on image-based severity classification in cacao pods.
 
-**Technical direction**
-
-`CNN` · `Image Classification` · `Bayesian HPO` · `Computer Vision`
+```text
+CNN
+Image Classification
+Bayesian HPO
+Computer Vision
+```
 
 </td>
 </tr>
@@ -105,27 +104,34 @@ Academic computer-vision work focused on classifying **Black Pod Rot severity in
 <tr>
 <td width="50%" valign="top">
 
-### HINLO
-**Coastal Litter Management**
+### 🌊 HINLO
 
-A mobile and backend-oriented system concept for reporting, cleanup coordination, and rewards.
+**Coastal Litter System**
 
-**Technical direction**
+A mobile/backend-oriented system concept for reporting coastal litter, coordinating cleanups, and managing rewards.
 
-`Flutter` · `Supabase` · `PostgreSQL` · `PostGIS`
+```text
+Flutter
+Supabase
+PostgreSQL
+PostGIS
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### Systems & UI
-**Application Development**
+### 🧩 SYSTEM BUILDING
 
-I also build academic and personal systems where **authentication, databases, business logic, and interface design** need to work together as one product.
+I also work on academic software where **authentication, database logic, application flow, and interface design** have to work together.
 
-**Focus**
-
-`Architecture` · `Data Flow` · `UI/UX` · `Integration`
+```text
+architecture
+data flow
+debugging
+UI / UX
+integration
+```
 
 </td>
 </tr>
@@ -135,73 +141,89 @@ I also build academic and personal systems where **authentication, databases, bu
 
 ---
 
-## ◉ Technology
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=dart,java,python,javascript,html,css" alt="Programming languages" />
-
-<br/><br/>
-
-### Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,androidstudio" alt="Frameworks and platforms" />
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" alt="Development and design tools" />
-
-</div>
-
----
-
-## ◉ Engineering Interests
+## ◉ Toolbox
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="33%">
 
-**01**  
-### Mobile
-User-focused apps and cross-platform experiences
+### LANGUAGES
 
-</td>
-<td align="center" width="20%">
-
-**02**  
-### Backend
-Authentication, APIs, services, and data workflows
+<img src="https://skillicons.dev/icons?i=dart,java,python,javascript,html,css" alt="Languages"/>
 
 </td>
-<td align="center" width="20%">
 
-**03**  
-### Data
-Databases designed for consistency and reliability
+<td align="center" width="33%">
 
-</td>
-<td align="center" width="20%">
+### DEVELOPMENT
 
-**04**  
-### AI / CV
-Applied image analysis and intelligent systems
+<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,androidstudio" alt="Development"/>
 
 </td>
-<td align="center" width="20%">
 
-**05**  
-### UI / UX
-Interfaces that feel simple, modern, and intentional
+<td align="center" width="33%">
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" alt="Tools"/>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## ◉ How I Build
+
+<div align="center">
+
+```text
+  IDEA
+   │
+   ▼
+┌──────────┐
+│ ANALYZE  │  understand the actual problem
+└────┬─────┘
+     ▼
+┌──────────┐
+│  DESIGN  │  plan the flow and data
+└────┬─────┘
+     ▼
+┌──────────┐
+│   CODE   │  turn the idea into a working system
+└────┬─────┘
+     ▼
+┌──────────┐
+│  DEBUG   │  find out why it breaks
+└────┬─────┘
+     ▼
+┌──────────┐
+│  REFINE  │  make it cleaner and easier to use
+└────┬─────┘
+     │
+     └───────────────↺
+```
+
+</div>
+
+---
+
+## ◉ Tech Radar
+
+<div align="center">
+
+| AREA | CURRENT INTEREST |
+|:---|:---|
+| 📱 Mobile | Flutter application development |
+| ☁️ Backend | Firebase, Supabase, application services |
+| 🗃️ Data | Firestore, PostgreSQL, structured workflows |
+| 🧠 AI / CV | CNNs, image classification, model optimization |
+| 🎨 Interface | Practical UI/UX and polished mobile screens |
+| 🔧 Workflow | Git, GitHub, debugging, testing, iteration |
 
 </div>
 
@@ -212,88 +234,131 @@ Interfaces that feel simple, modern, and intentional
 <div align="center">
 
 <a href="https://github.com/msreaamparo-wq">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00C2FF&icon_color=0A5BFF&text_color=C9D8F2&bg_color=081A33" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00C2FF&icon_color=0A5BFF&text_color=C9D8F2&bg_color=081A33" alt="GitHub statistics"/>
 </a>
+
 <a href="https://github.com/msreaamparo-wq">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&hide_border=true&langs_count=7&theme=tokyonight&title_color=00C2FF&text_color=C9D8F2&bg_color=081A33" alt="Top programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&hide_border=true&langs_count=7&theme=tokyonight&title_color=00C2FF&text_color=C9D8F2&bg_color=081A33" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/msreaamparo-wq">
-  <img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=tokyonight&hide_border=true&background=081A33&ring=0A5BFF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=9DB8D7&dates=7188A8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=tokyonight&hide_border=true&background=081A33&ring=0A5BFF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=9DB8D7&dates=7188A8" alt="GitHub streak"/>
 </a>
 
 </div>
 
 ---
 
-## ◉ More About Me
+## ◉ Interactive Files
 
 <details>
-<summary><strong>01 · How I approach projects</strong></summary>
+<summary><strong>01 · What I'm learning</strong></summary>
 
 <br/>
 
-I start with the problem, identify the users and workflow, then shape the architecture around the actual requirements.
+```text
+[ learning ]
 
-From there, I iterate through implementation, testing, debugging, documentation, and refinement.
+Flutter architecture
+Firebase integration
+Supabase / PostgreSQL
+Computer vision
+Better software design
+```
 
 </details>
 
 <details>
-<summary><strong>02 · What I'm improving</strong></summary>
+<summary><strong>02 · What happens when something breaks</strong></summary>
 
 <br/>
 
-**Software architecture**  
-Writing cleaner and more maintainable application structures.
-
-**Mobile development**  
-Improving Flutter code quality, responsiveness, and UI/UX.
-
-**Backend & data**  
-Strengthening database design, authentication, and application workflows.
-
-**Computer vision**  
-Learning how model design and optimization affect real-world image classification.
+```text
+BUG FOUND
+   ↓
+reproduce
+   ↓
+inspect
+   ↓
+understand
+   ↓
+fix
+   ↓
+test again
+   ↓
+ship
+```
 
 </details>
 
 <details>
-<summary><strong>03 · Why I build</strong></summary>
+<summary><strong>03 · My favorite part of development</strong></summary>
 
 <br/>
 
-Because the most interesting part of technology is not the tool itself—it is what you can create with it.
+Watching something go from:
+
+```text
+"what if we build this?"
+          ↓
+        PLAN
+          ↓
+        CODE
+          ↓
+       DEBUG
+          ↓
+      WORKING ✅
+```
 
 </details>
 
 ---
 
-## ◉ Let's Connect
+## ◉ Currently
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────┐
+│ STATUS                                             │
+├────────────────────────────────────────────────────┤
+│ 🟢 Building                                        │
+│ 🔵 Learning                                        │
+│ 🟣 Experimenting                                    │
+│ ⚪ Improving                                        │
+└────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ◉ Find Me
 
 <div align="center">
 
 <a href="https://github.com/msreaamparo-wq">
-  <img src="https://img.shields.io/badge/GITHUB-msreaamparo--wq-081A33?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" />
+<img src="https://img.shields.io/badge/GITHUB-msreaamparo--wq-081A33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://github.com/msreaamparo-wq?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-0A5BFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View projects" />
+<img src="https://img.shields.io/badge/PROJECTS-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&label=PROFILE%20VIEWS&color=0A5BFF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&label=PROFILE%20VISITS&color=0A5BFF&style=for-the-badge" alt="Profile visits"/>
 
 <br/><br/>
 
-<sub>Designed as a developer profile — focused on software, systems, and continuous improvement.</sub>
+<sub><code>built with curiosity • powered by code • always improving</code></sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:081A33,50:0A5BFF,100:00C2FF&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081A33,50:0A5BFF,100:00C2FF&height=105&section=footer" width="100%" alt=""/>
 </div>
