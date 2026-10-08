@@ -2,21 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo developer banner"/>
 
-### <code>> initializing profile...</code>
+### <code>> profile loaded successfully</code>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=00C2FF&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Computer+Science+Student+%2F%2F+Developer;Flutter+%7C+Firebase+%7C+Supabase+%7C+Computer+Vision;turning+ideas+into+working+systems..." alt="Animated typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=700&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Computer+Science+Student+%2F%2F+Developer;Mobile+%7C+Backend+%7C+Databases+%7C+Computer+Vision;I+build+systems%2C+not+just+screens." alt="Animated typing"/>
 
 <br/>
 
 <a href="#-profile-console">[ PROFILE ]</a>
 &nbsp;•&nbsp;
-<a href="#-build-log">[ BUILD LOG ]</a>
+<a href="#-build-archive">[ BUILDS ]</a>
 &nbsp;•&nbsp;
-<a href="#-toolbox">[ TOOLBOX ]</a>
+<a href="#-toolbox">[ STACK ]</a>
 &nbsp;•&nbsp;
 <a href="#-github-activity">[ ACTIVITY ]</a>
 &nbsp;•&nbsp;
-<a href="https://github.com/msreaamparo-wq?tab=repositories">[ REPOS ]</a>
+<a href="https://github.com/msreaamparo-wq?tab=repositories">[ REPOSITORIES ]</a>
 
 </div>
 
@@ -25,117 +25,229 @@
 ## ◉ Profile Console
 
 <details open>
-<summary><strong>💻 click to inspect</strong></summary>
+<summary><strong>💻 inspect profile</strong></summary>
 
 <br/>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  REA AMPARO / COMPUTER SCIENCE                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  role        :: student developer                            │
-│  mode        :: learning + building                          │
-│  interests   :: mobile • backend • databases • AI/CV         │
-│  toolkit     :: Flutter • Firebase • Supabase • Git          │
-│  philosophy  :: build → test → understand → improve          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│ REA JAMILA AMPARO                                                │
+│ COMPUTER SCIENCE / SOFTWARE DEVELOPMENT                          │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  build style   :: practical • system-focused • hands-on          │
+│  mobile        :: Flutter / Android                              │
+│  backend       :: Firebase / Supabase                            │
+│  data          :: Firestore / PostgreSQL / PostGIS               │
+│  AI / CV       :: CNN / image classification                    │
+│  desktop       :: Java Swing / MySQL                             │
+│  workflow      :: Git / GitHub / debugging / iteration           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a **Computer Science student** who likes making things that actually work.
+I'm a **Computer Science student and developer** who enjoys building complete systems—from interface to database, from application logic to deployment details.
 
-I enjoy taking an idea, figuring out how the system should behave, building it, debugging it, and polishing the parts that users actually touch.
-
-My current interests are **mobile applications, backend systems, database-driven software, UI/UX, and computer vision**.
+I like projects that let me solve different kinds of problems: **mobile workflows, authentication, QR attendance, geolocation, database design, admin systems, UI/UX, and computer vision**.
 
 </details>
 
 ---
 
-## ◉ Build Log
+## ◉ Build Archive
 
-> A few things I've worked on, experimented with, or learned through building.
+### 📱 TRACE — SSG Attendance System
+**Mobile • Cloud • Verification**
+
+A student-organization attendance platform built around real event workflows and verification.
+
+```text
+Flutter ─────── mobile interface
+Firebase ────── authentication + cloud data
+Firestore ───── attendance + event records
+QR ──────────── participant / event scanning
+Geolocation ─── location verification
+Feedback QR ─── post-attendance feedback flow
+```
+
+<a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">
+<img src="https://img.shields.io/badge/VIEW_TRACE-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="View TRACE repository"/>
+</a>
+
+---
+
+### 🌊 HINLO — Coastal Litter Management
+**Mobile • Backend • Spatial Data**
+
+A coastal litter reporting and cleanup-oriented system concept with role-based workflows and location-aware data.
+
+```text
+Flutter ─────── mobile client
+Supabase ────── backend
+PostgreSQL ──── relational data
+PostGIS ─────── spatial queries
+Roles ───────── reporter / officials / admin
+Rewards ─────── partner stores / points concept
+```
+
+---
+
+### 🌱 Cacao Computer Vision
+**AI • Computer Vision • Research**
+
+Academic work focused on **Black Pod Rot severity classification in cacao pods**.
+
+```text
+Images ───────── field-acquired cacao pods
+CNN ──────────── image classification
+Severity ─────── Low / Moderate / Severe
+Optimization ─── Bayesian hyperparameter search
+Evaluation ───── model comparison
+```
+
+---
+
+### 🏨 Hotel Reservation & Administration System
+**Desktop • Database • Business Logic**
+
+A Java desktop system built around reservation and administrative workflows.
+
+```text
+Java Swing ─── desktop interface
+MySQL ──────── persistent data
+XAMPP ──────── local database environment
+Roles ──────── Admin / Receptionist / Client
+Logic ──────── reservation + management workflows
+Charts ─────── system / dashboard visualization
+```
+
+---
+
+## ◉ Things I've Actually Built
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 📱 TRACE
-
-**SSG Attendance System**
-
-A mobile attendance system exploring QR-based attendance, event workflows, verification, geolocation, and feedback.
-
-```text
-Flutter
-Firebase
-Firestore
-QR
-Geolocation
-```
-
-<a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">
-<img src="https://img.shields.io/badge/EXPLORE-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore TRACE"/>
-</a>
+### 🔐 AUTH
+Login flows  
+Role-based access  
+Session handling  
+Account security
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+### 📷 QR
+Participant QR  
+Event QR  
+Scanning workflows  
+Feedback QR
 
-### 🌱 CACAO VISION
+</td>
+<td align="center" width="25%">
 
-**Black Pod Rot Severity**
+### 📍 LOCATION
+Geofence checks  
+Coordinate validation  
+Location-aware workflows  
+Spatial data concepts
 
-Academic computer-vision work focused on image-based severity classification in cacao pods.
+</td>
+<td align="center" width="25%">
 
-```text
-CNN
-Image Classification
-Bayesian HPO
-Computer Vision
-```
+### 🗃️ DATA
+Firestore  
+PostgreSQL  
+MySQL  
+Data modeling
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🌊 HINLO
-
-**Coastal Litter System**
-
-A mobile/backend-oriented system concept for reporting coastal litter, coordinating cleanups, and managing rewards.
-
-```text
-Flutter
-Supabase
-PostgreSQL
-PostGIS
-```
+### 📱 MOBILE
+Flutter  
+Android  
+Responsive UI  
+App navigation
 
 </td>
+<td align="center" width="25%">
 
-<td width="50%" valign="top">
+### ☁️ BACKEND
+Firebase  
+Supabase  
+Cloud workflows  
+CRUD operations
 
-### 🧩 SYSTEM BUILDING
+</td>
+<td align="center" width="25%">
 
-I also work on academic software where **authentication, database logic, application flow, and interface design** have to work together.
+### 🤖 AI / CV
+CNN  
+Image analysis  
+Classification  
+Model optimization
 
-```text
-architecture
-data flow
-debugging
-UI / UX
-integration
-```
+</td>
+<td align="center" width="25%">
+
+### 🖥️ DESKTOP
+Java Swing  
+Admin panels  
+Reservation logic  
+Database integration
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## ◉ Build Pattern
+
+<div align="center">
+
+```text
+                 ┌─────────────┐
+                 │    IDEA     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │  ANALYZE    │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   DESIGN    │
+                 │ UI + DATA   │
+                 └──────┬──────┘
+                        ↓
+            ┌───────────────────────┐
+            │         CODE          │
+            │ mobile / backend / AI │
+            └───────────┬───────────┘
+                        ↓
+                 ┌─────────────┐
+                 │   DEBUG     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   TEST      │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   REFINE    │
+                 └──────┬──────┘
+                        │
+                        └──────────────↺
+```
 
 </div>
 
@@ -145,85 +257,39 @@ integration
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### LANGUAGES
-
+### Languages
 <img src="https://skillicons.dev/icons?i=dart,java,python,javascript,html,css" alt="Languages"/>
 
-</td>
+### Frameworks / Platforms
+<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,androidstudio" alt="Frameworks and platforms"/>
 
-<td align="center" width="33%">
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,androidstudio" alt="Development"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### TOOLS
-
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" alt="Tools"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-## ◉ How I Build
+## ◉ What I'm Exploring
 
 <div align="center">
 
 ```text
-  IDEA
-   │
-   ▼
-┌──────────┐
-│ ANALYZE  │  understand the actual problem
-└────┬─────┘
-     ▼
-┌──────────┐
-│  DESIGN  │  plan the flow and data
-└────┬─────┘
-     ▼
-┌──────────┐
-│   CODE   │  turn the idea into a working system
-└────┬─────┘
-     ▼
-┌──────────┐
-│  DEBUG   │  find out why it breaks
-└────┬─────┘
-     ▼
-┌──────────┐
-│  REFINE  │  make it cleaner and easier to use
-└────┬─────┘
-     │
-     └───────────────↺
+[ NOW ]
+
+▸ cleaner Flutter architecture
+▸ better backend and database design
+▸ applied computer vision
+▸ model optimization
+▸ polished UI / UX
+▸ maintainable software systems
+
+[ NEXT ]
+
+▸ stronger testing
+▸ better deployment workflows
+▸ deeper machine-learning experimentation
 ```
-
-</div>
-
----
-
-## ◉ Tech Radar
-
-<div align="center">
-
-| AREA | CURRENT INTEREST |
-|:---|:---|
-| 📱 Mobile | Flutter application development |
-| ☁️ Backend | Firebase, Supabase, application services |
-| 🗃️ Data | Firestore, PostgreSQL, structured workflows |
-| 🧠 AI / CV | CNNs, image classification, model optimization |
-| 🎨 Interface | Practical UI/UX and polished mobile screens |
-| 🔧 Workflow | Git, GitHub, debugging, testing, iteration |
 
 </div>
 
@@ -251,109 +317,84 @@ integration
 
 ---
 
-## ◉ Interactive Files
+## ◉ Interactive Console
 
 <details>
-<summary><strong>01 · What I'm learning</strong></summary>
+<summary><strong>01 · click to run: <code>about_me()</code></strong></summary>
 
 <br/>
 
 ```text
-[ learning ]
+> about_me()
 
-Flutter architecture
-Firebase integration
-Supabase / PostgreSQL
-Computer vision
-Better software design
+Output:
+Computer Science student
+↓
+developer
+↓
+system builder
+↓
+continuous learner
+
+"Make it work. Then make it better."
 ```
 
 </details>
 
 <details>
-<summary><strong>02 · What happens when something breaks</strong></summary>
+<summary><strong>02 · click to run: <code>what_i_build()</code></strong></summary>
 
 <br/>
 
 ```text
-BUG FOUND
-   ↓
-reproduce
-   ↓
-inspect
-   ↓
-understand
-   ↓
-fix
-   ↓
-test again
-   ↓
-ship
+> what_i_build()
+
+[01] mobile applications
+[02] cloud-backed systems
+[03] database-driven software
+[04] QR + attendance workflows
+[05] location-aware features
+[06] computer-vision experiments
+[07] desktop reservation systems
+[08] admin interfaces
 ```
 
 </details>
 
 <details>
-<summary><strong>03 · My favorite part of development</strong></summary>
+<summary><strong>03 · click to run: <code>debug()</code></strong></summary>
 
 <br/>
 
-Watching something go from:
-
 ```text
-"what if we build this?"
-          ↓
-        PLAN
-          ↓
-        CODE
-          ↓
-       DEBUG
-          ↓
-      WORKING ✅
+> debug()
+
+reproduce → inspect → understand → fix → test → improve
 ```
 
 </details>
 
 ---
 
-## ◉ Currently
-
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────┐
-│ STATUS                                             │
-├────────────────────────────────────────────────────┤
-│ 🟢 Building                                        │
-│ 🔵 Learning                                        │
-│ 🟣 Experimenting                                    │
-│ ⚪ Improving                                        │
-└────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## ◉ Find Me
+## ◉ Connect
 
 <div align="center">
 
 <a href="https://github.com/msreaamparo-wq">
-<img src="https://img.shields.io/badge/GITHUB-msreaamparo--wq-081A33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-msreaamparo--wq-081A33?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
 <a href="https://github.com/msreaamparo-wq?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOS-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&label=PROFILE%20VISITS&color=0A5BFF&style=for-the-badge" alt="Profile visits"/>
+<img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&label=PROFILE%20VIEWS&color=0A5BFF&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
-<sub><code>built with curiosity • powered by code • always improving</code></sub>
+<sub><code>personal profile • student developer • always building</code></sub>
 
 </div>
 
