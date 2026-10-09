@@ -4,17 +4,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=720&height=34&lines=Computer+Science+%2F%2F+Developer;Flutter+%C2%B7+Backend+%C2%B7+Computer+Vision" alt="Developer focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=720&height=34&lines=Computer+Science+%2F%2F+Developer;Mobile+%C2%B7+Backend+%C2%B7+Computer+Vision" alt="Developer focus"/>
 
 <br/>
 
 <a href="#projects">PROJECTS</a>
 &nbsp; / &nbsp;
+<a href="#build-work">BUILD WORK</a>
+&nbsp; / &nbsp;
 <a href="#stack">STACK</a>
 &nbsp; / &nbsp;
-<a href="#github-stats">GITHUB</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/msreaamparo-wq?tab=repositories">ALL REPOSITORIES ↗</a>
+<a href="https://github.com/msreaamparo-wq?tab=repositories">REPOSITORIES ↗</a>
 
 </div>
 
@@ -22,58 +22,105 @@
 
 <a id="projects"></a>
 
-## Selected Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 · TRACE**
-
-SSG Attendance System
+**01 · TRACE**  
+*SSG Attendance System*
 
 QR attendance, event workflows, location verification, and feedback.
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase" height="28" alt="Flutter and Firebase"/>
+<sub>FLUTTER · FIREBASE · FIRESTORE</sub>
 
-<br/>
-
-<a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">↗ View repository</a>
+[View public repository ↗](https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System)
 
 </td>
 <td width="50%" valign="top">
 
-**02 · HINLO**
+**02 · HINLO**  
+*Coastal Litter Management*
 
-Coastal Litter Management
+A mobile system concept for litter reporting, cleanup coordination, and rewards.
 
-Reporting, cleanup coordination, and rewards with location-aware data.
-
-<img src="https://skillicons.dev/icons?i=flutter,supabase,postgres" height="28" alt="Flutter, Supabase, PostgreSQL"/>
+<sub>FLUTTER · SUPABASE · POSTGRESQL · POSTGIS</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 · CACAO VISION**
+**03 · CACAO VISION**  
+*Black Pod Rot Severity Classification*
 
-Black Pod Rot Severity Classification
+Academic research on classifying disease severity in cacao pod images.
 
-Computer vision research for classifying cacao pod disease severity.
-
-<img src="https://skillicons.dev/icons?i=python" height="28" alt="Python"/>
+<sub>PYTHON · CNN · COMPUTER VISION · BAYESIAN HPO</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**04 · HOTEL SYSTEM**
+**04 · HOTEL RESERVATION**  
+*Desktop Reservation & Administration*
 
-Reservation & Administration
+A Java desktop project with role-based workflows and database integration.
 
-Java desktop app with role-based workflows and database integration.
+<sub>JAVA SWING · MYSQL · XAMPP</sub>
 
-<img src="https://skillicons.dev/icons?i=java,mysql" height="28" alt="Java and MySQL"/>
+</td>
+</tr>
+</table>
+
+<a id="build-work"></a>
+
+## Build Work
+
+A quick look at the different parts of software development I've worked on across these projects.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Mobile & UI**
+
+- Flutter screens, forms, and navigation
+- Dashboards and role-based views
+- Splash and sign-in flows
+- UI styling and app assets
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & Data**
+
+- Firebase Authentication and Firestore
+- Supabase and PostgreSQL
+- MySQL database integration
+- CRUD flows, roles, and permissions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Features & Workflows**
+
+- QR scanning and attendance sessions
+- Time-in / time-out logic
+- Location and geofence checks
+- Feedback, reporting, and rewards flows
+
+</td>
+<td width="50%" valign="top">
+
+**Desktop & Research**
+
+- Java Swing reservation interfaces
+- Admin, receptionist, and client workflows
+- CNN-based image classification research
+- Bayesian hyperparameter optimization planning
 
 </td>
 </tr>
@@ -93,8 +140,6 @@ Java desktop app with role-based workflows and database integration.
 
 ---
 
-<a id="github-stats"></a>
-
 ## GitHub
 
 <div align="center">
@@ -108,10 +153,8 @@ Java desktop app with role-based workflows and database integration.
 
 </div>
 
----
-
 <details>
-<summary><strong>Currently exploring</strong></summary>
+<summary><strong>Currently learning</strong></summary>
 
 <br/>
 
@@ -126,7 +169,6 @@ Flutter architecture · database design · backend integration · computer visio
 <a href="https://github.com/msreaamparo-wq?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0A5BFF?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&style=flat-square&color=0A5BFF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
