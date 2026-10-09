@@ -1,101 +1,79 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Jamila Amparo"/>
+<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo — Computer Science developer"/>
 
-<br>
+<br/>
 
-<a href="https://github.com/msreaamparo-wq?tab=repositories">Repositories</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#selected-projects">Projects</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#tools-i-use">Tools I Use</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#github">GitHub</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=720&height=34&lines=Computer+Science+%2F%2F+Developer;Flutter+%C2%B7+Backend+%C2%B7+Computer+Vision" alt="Developer focus"/>
 
-<br><br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=700&height=36&lines=Computer+Science+student+%7C+developer;building+apps%2C+systems%2C+and+computer+vision+projects" alt="Introduction"/>
+<a href="#projects">PROJECTS</a>
+&nbsp; / &nbsp;
+<a href="#stack">STACK</a>
+&nbsp; / &nbsp;
+<a href="#github-stats">GITHUB</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/msreaamparo-wq?tab=repositories">ALL REPOSITORIES ↗</a>
 
 </div>
 
 ---
 
-## Hi, I'm Rea.
-
-I'm a Computer Science student who enjoys building things from scratch and figuring out how they work.
-
-Most of my projects so far have been around **mobile apps, databases, backend services, and computer vision**. I also like working on the parts that usually take time to get right—application flow, validation, data handling, and UI details.
-
-I learn best by building, testing, fixing, and doing it again.
-
----
-
-<a id="selected-projects"></a>
+<a id="projects"></a>
 
 ## Selected Projects
-
-### TRACE — SSG Attendance System
-
-A mobile attendance system for student organizations, with QR scanning, event management, location verification, and feedback.
-
-`Flutter` `Firebase` `Firestore` `QR` `Geolocation`
-
-[View repository →](https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System)
-
-### HINLO
-
-A mobile and backend-oriented project for coastal litter reporting, cleanup coordination, and rewards.
-
-`Flutter` `Supabase` `PostgreSQL` `PostGIS`
-
-### Cacao Computer Vision
-
-An academic project focused on image-based **Black Pod Rot severity classification in cacao pods**.
-
-`CNN` `Computer Vision` `Bayesian HPO`
-
-### Hotel Reservation System
-
-A desktop application covering reservation and administration workflows.
-
-`Java Swing` `MySQL` `XAMPP`
-
----
-
-<a id="things"></a>
-
-## Things I've Worked On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Mobile**
+**01 · TRACE**
 
-Flutter applications, navigation, forms, state handling, and responsive interfaces.
+SSG Attendance System
+
+QR attendance, event workflows, location verification, and feedback.
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase" height="28" alt="Flutter and Firebase"/>
+
+<br/>
+
+<a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">↗ View repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-**Backend & Data**
+**02 · HINLO**
 
-Firebase, Supabase, Firestore, PostgreSQL, MySQL, authentication, and CRUD workflows.
+Coastal Litter Management
+
+Reporting, cleanup coordination, and rewards with location-aware data.
+
+<img src="https://skillicons.dev/icons?i=flutter,supabase,postgres" height="28" alt="Flutter, Supabase, PostgreSQL"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Computer Vision**
+**03 · CACAO VISION**
 
-CNN-based image classification and experimentation with model optimization.
+Black Pod Rot Severity Classification
+
+Computer vision research for classifying cacao pod disease severity.
+
+<img src="https://skillicons.dev/icons?i=python" height="28" alt="Python"/>
 
 </td>
 <td width="50%" valign="top">
 
-**System Development**
+**04 · HOTEL SYSTEM**
 
-QR workflows, geolocation features, admin interfaces, validation, and database integration.
+Reservation & Administration
+
+Java desktop app with role-based workflows and database integration.
+
+<img src="https://skillicons.dev/icons?i=java,mysql" height="28" alt="Java and MySQL"/>
 
 </td>
 </tr>
@@ -103,59 +81,52 @@ QR workflows, geolocation features, admin interfaces, validation, and database i
 
 ---
 
-<a id="tools-i-use"></a>
+<a id="stack"></a>
 
-## Tools I Use
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dart,java,python,javascript,html,css,flutter,firebase,supabase,postgres,mysql,git,github,vscode,figma,photoshop" alt="Tools and technologies"/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,postgres,mysql,java,python,git,github,vscode,figma" alt="Languages, platforms, and tools"/>
 
 </div>
 
 ---
 
-<a id="github"></a>
+<a id="github-stats"></a>
 
 ## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00C2FF&icon_color=0A5BFF&text_color=C9D8F2&bg_color=081A33" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&title_color=00C2FF&text_color=C9D8F2&bg_color=081A33" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=tokyonight&hide_border=true&background=081A33&ring=0A5BFF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=9DB8D7&dates=7188A8" alt="GitHub streak"/>
+<a href="https://github.com/msreaamparo-wq">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&theme=transparent&icon_color=00C2FF&text_color=9DB8D7" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/msreaamparo-wq">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent&text_color=9DB8D7" alt="Most-used languages"/>
+</a>
 
 </div>
 
 ---
 
 <details>
-<summary><strong>Currently learning</strong></summary>
+<summary><strong>Currently exploring</strong></summary>
 
-<br>
+<br/>
 
-Flutter architecture · backend integration · database design · computer vision · model optimization
+Flutter architecture · database design · backend integration · computer vision
 
 </details>
 
-<br>
-
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/msreaamparo-wq?tab=repositories">
-<img src="https://img.shields.io/badge/SEE%20MY%20REPOSITORIES-0A5BFF?style=for-the-badge&logo=github&logoColor=white" alt="See repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0A5BFF?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&label=PROFILE%20VIEWS&color=0A5BFF&style=flat-square" alt="Profile views"/>
-
-<br><br>
-
-<sub>Computer Science student · developer · still learning</sub>
+<img src="https://komarev.com/ghpvc/?username=msreaamparo-wq&style=flat-square&color=0A5BFF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
