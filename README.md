@@ -1,105 +1,66 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo — a little digital garden"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=17&duration=2800&pause=900&color=648BE8&center=true&vCenter=true&repeat=true&width=740&height=36&lines=Computer+Science+student+%E2%9C%A7+curious+builder;Mobile+apps+%C2%B7+web+experiences+%C2%B7+backend;Learning+by+building%2C+testing%2C+and+refining" alt="A rotating hello from Rea"/>
-
-<p>
-  <a href="https://github.com/msreaamparo-wq?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7EA9F5?style=for-the-badge&logo=github&logoColor=243D68" alt="Explore projects"/></a>
-  <a href="index.html"><img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-B9ADFA?style=for-the-badge&logo=html5&logoColor=28395C" alt="Portfolio source"/></a>
-  <a href="mailto:msreaamparo@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-A8DAD7?style=for-the-badge&logo=gmail&logoColor=244F68" alt="Say hello"/></a>
-</p>
+<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
 
 </div>
 
----
+## Hi, I'm Rea.
 
-## ✿ Hello, I'm Rea
+I'm a Computer Science student interested in building applications that solve practical problems. Most of my project work is around Flutter, backend and database integration, and coursework involving programming-language concepts. I'm also developing a research project on classifying black pod rot severity in cacao pod images.
 
-I'm a Computer Science student who enjoys turning ideas into practical, user-friendly software. My projects move between mobile apps, database-backed workflows, web tools, and computer-vision experiments.
+I like clear interfaces, understandable workflows, and learning why a solution works—not just getting it to run.
 
-I care about building things that are useful, learning the reasons behind the code, and polishing the details that make an app easier to understand.
+## Projects
 
-## ✧ Projects in my orbit
+### TRACE — Campus attendance system
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A Flutter app for campus event attendance with QR-based workflows, role-aware access, student records, and location verification.
 
-### 🦋 TRACE
-**Campus Attendance System**
+**Stack:** Flutter, Dart, Firebase Authentication, Cloud Firestore
 
-A Flutter attendance app for campus events, with QR workflows, role-aware access, student records, and location-aware verification.
+[Public repository](https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System)
 
-Flutter · Firebase · QR · Geolocation
+### HINLO — Coastal litter management
 
-[Explore the repository ↗](https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System)
+A community-focused app for coastal litter reports, cleanup coordination, local-government workflows, and rewards. The project uses a mobile app with a database-backed service layer.
 
-</td>
-<td width="50%" valign="top">
+**Stack:** Flutter, Supabase, PostgreSQL, PostGIS
 
-### 🌊 HINLO
-**Coastal Litter Management**
+*In development.*
 
-A community-focused mobile app concept for coastal litter reports, cleanup coordination, local-government workflows, and rewards.
+### Cacao Vision — Black pod rot severity research
 
-Flutter · Supabase · PostgreSQL · PostGIS
+My thesis project investigates classification of black pod rot severity from cacao pod images. The planned evaluation compares a baseline CNN with Bayesian hyperparameter optimization.
 
-*An ongoing project — growing one feature at a time.*
+**Focus:** Python, image classification, model evaluation
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+*Research and model work in progress.*
 
-### 🌱 Cacao Vision
-**Black Pod Rot Severity Classification**
+### GNLR — Gender-Neutral Language Recognizer
 
-A computer-vision research direction exploring image-based cacao disease severity classification and model optimization.
+A text-analysis project using finite-state automata concepts to identify gendered wording and suggest more inclusive alternatives.
 
-Python · CNN · Image Processing · Bayesian HPO
+**Focus:** Python, HTML, CSS, automata theory
 
-[Explore the model repository ↗](https://github.com/msreaamparo-wq/Cocoa-Pod-Disease-Detection-main)
+*Project notes and code are not currently public.*
 
-</td>
-<td width="50%" valign="top">
+## Languages and tools
 
-### 💬 GNLR
-**Gender-Neutral Language Recognizer**
+**Used in my projects and coursework**
 
-A language-analysis project exploring finite-state automata and inclusive-language suggestions.
-
-Python · HTML · CSS · Automata
-
-[Explore the repository ↗](https://github.com/msreaamparo-wq/Gender-Neutral-Language-Recognizer)
-
-</td>
-</tr>
-</table>
-
-## 💻 Languages & markup
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,dart,java,kotlin,javascript,typescript,html,css,cpp,cs,php,go,rust,swift&perline=7" alt="Programming languages and markup tools"/>
+<div>
+<img src="https://skillicons.dev/icons?i=python,dart,java,html,css,flutter,firebase,supabase,postgres,mysql,git,github,vscode,androidstudio&perline=7" alt="Python, Dart, Java, HTML, CSS, Flutter, Firebase, Supabase, PostgreSQL, MySQL, Git, GitHub, VS Code and Android Studio"/>
 </div>
 
-## 🪄 Frameworks & platforms
+**Exploring and learning**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,flask,fastapi,bootstrap,tailwind,androidstudio,tensorflow,pytorch,opencv,sklearn&perline=7" alt="Frameworks and platforms"/>
+<div>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,kotlin,cpp,cs,php,go,rust,swift,react,nextjs,nodejs,flask,fastapi,tailwind,tensorflow,pytorch,opencv,sklearn,sqlite,figma,postman,docker,linux,windows&perline=8" alt="Additional languages, frameworks, ML libraries, databases, and development tools"/>
 </div>
 
-## 🧰 Backend, data & developer toolkit
+The second group is a learning list, not a claim that I use or have mastered every tool. The tools I use most depend on the project I'm working on.
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,sqlite,git,github,vscode,figma,photoshop,postman,docker,linux,windows,githubactions,vite&perline=8" alt="Backend, database, design, and developer tools"/>
-</div>
-
-<sub>My toolkit is a mix of tools I've used in projects and technologies I'm continuing to explore — not a claim of mastery in every item.</sub>
-
-## 📊 GitHub, at a glance
+## GitHub overview
 
 <div align="center">
 <a href="https://github.com/msreaamparo-wq"><img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&theme=transparent&icon_color=729CF0&title_color=648BE8&text_color=7D8FAE" alt="GitHub statistics"/></a>
@@ -108,16 +69,16 @@ Python · HTML · CSS · Automata
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=msreaamparo-wq&bg_color=00000000&color=648BE8&line=9B8DEB&point=4E90ED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 </div>
 
-## 🌱 What I'm growing next
+## What I'm working on next
 
-- Stronger software architecture, test coverage, and deployment habits
-- More confidence with model evaluation and on-device ML
-- Database design and thoughtful, accessible user experiences
+- Improving app architecture, testing, and deployment workflows.
+- Learning how to evaluate computer-vision models carefully.
+- Making database-backed applications easier to understand and use.
+
+---
 
 <div align="center">
 
-### ✦ Learn · Build · Test · Improve ✦
-
-*Thanks for stopping by my little corner of GitHub.*
+*Build, test, learn, repeat.*
 
 </div>
