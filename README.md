@@ -73,7 +73,7 @@ Exploring clean app architecture, backend integration, computer vision, and reli
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,supabase,postgres,mysql,html,css,git,github,vscode,androidstudio&perline=7" alt="Technologies and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,supabase,postgres,mysql,html,css,git,github,vscode,androidstudio&perline=7&theme=dark" alt="Technologies and development tools"/>
 
 </div>
 
@@ -90,15 +90,15 @@ JavaScript · TypeScript · Kotlin · C++ · C# · PHP · React · Node.js · Fl
 <div align="center">
 
 <a href="https://github.com/msreaamparo-wq">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/msreaamparo-wq">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&hide_border=true&langs_count=8" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -106,7 +106,7 @@ JavaScript · TypeScript · Kotlin · C++ · C# · PHP · React · Node.js · Fl
 
 <div align="center">
 
-[All repositories](https://github.com/msreaamparo-wq?tab=repositories) · [Contribution activity](https://github.com/msreaamparo-wq?tab=overview&from=2026-01-01&to=2026-12-31)
+[All repositories](https://github.com/msreaamparo-wq?tab=repositories) · [Contribution activity](https://github.com/msreaamparo-wq?tab=overview)
 
 <sub>Build with purpose. Keep learning.</sub>
 
