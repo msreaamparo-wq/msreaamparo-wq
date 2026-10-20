@@ -262,6 +262,7 @@
     .decoration-layer { opacity: calc(var(--site-decoration-opacity) * .38); }
     .sky-orb { display: none; }
     .sparkle { animation-duration: 7s; opacity: .35; }
+    #site-root { background: light-dark(#f6f8fc, #0d1730); }
     .topbar { background: var(--paper-solid); backdrop-filter: none; box-shadow: none; border-radius: 15px; }
     .hero { padding-top: 64px; min-height: auto; gap: 34px; }
     .hero .eyebrow { padding: 0; border: 0; border-radius: 0; background: none; color: var(--muted); font-size: 11px; font-weight: 700; letter-spacing: .04em; text-transform: none; }
@@ -270,10 +271,13 @@
     .storybook::before { width: 300px; height: 300px; background: light-dark(#e8f1fc, #203254); }
     .orbit, .orbit-inner { display: none; }
     .profile-window { border-radius: 18px; background: var(--paper-solid); backdrop-filter: none; box-shadow: 0 8px 22px rgba(57,90,141,.08); animation: none; transform: none; }
+    .brand-mark, .avatar, .github-avatar { background: light-dark(#76a4e8, #294a78); box-shadow: none; }
     .floating-note { border-radius: 10px; background: var(--paper-solid); backdrop-filter: none; box-shadow: none; animation: none; }
     .floating-note.note-three { display: none; }
     .about-card, .project-card, .toolbox, .journey-panel, .github-panel, .contact-card { border-radius: 18px; box-shadow: none; }
     .about-card.feature { background: var(--paper); }
+    .toolkit-intro .note-card { background: var(--soft-blue); }
+    .btn-primary, .nav-cta { box-shadow: none; }
     .project-card { transition: border-color .2s ease; }
     .project-card:hover { transform: translateY(-2px); box-shadow: none; }
     .project-card::after { opacity: .16; filter: none; }
