@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo — Computer Science student and developer"/>
 
-### Computer Science Student · App Developer · Curious Problem-Solver
+### Computer Science Student · App Developer
 
-Building practical applications with thoughtful UI, useful workflows, and reliable data.
+Building useful applications with clear interfaces and practical workflows.
 
-[Projects](#featured-projects) · [Tech Stack](#tools-i-use) · [GitHub](https://github.com/msreaamparo-wq?tab=repositories)
+[Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub Activity](#github-at-a-glance)
 
 </div>
 
@@ -14,9 +14,7 @@ Building practical applications with thoughtful UI, useful workflows, and reliab
 
 ## About
 
-Hi, I'm **Rea Amparo**. I'm a Computer Science student who enjoys turning ideas into working applications. My current focus is mobile development, database integration, and computer-vision research.
-
-I care about interfaces that feel clear and intentional, code that is understandable, and projects that solve real problems.
+I'm **Rea Amparo**, a Computer Science student interested in mobile development, database integration, and computer-vision research. I enjoy building applications that solve practical problems and refining them through testing and iteration.
 
 ## Featured Projects
 
@@ -27,9 +25,9 @@ I care about interfaces that feel clear and intentional, code that is understand
 ### TRACE
 **Campus attendance management**
 
-A Flutter application for campus events, QR-based attendance, role-aware access, student records, and location verification.
+A Flutter app for campus events, QR-based attendance, role-based access, student records, and location verification.
 
-Flutter · Dart · Firebase
+<sub>Flutter · Dart · Firebase</sub>
 
 [View repository →](https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System)
 
@@ -39,9 +37,9 @@ Flutter · Dart · Firebase
 ### Cacao Vision
 **Black pod rot severity research**
 
-Thesis work exploring image-based severity classification for cacao pods and evaluation of a CNN with Bayesian hyperparameter optimization.
+Thesis research on image-based classification of black pod rot severity in cacao pods, with a CNN and Bayesian hyperparameter optimization.
 
-Python · Computer Vision · CNN
+<sub>Python · Computer Vision · CNN</sub>
 
 *Research in progress*
 
@@ -53,55 +51,62 @@ Python · Computer Vision · CNN
 ### GNLR
 **Gender-Neutral Language Recognizer**
 
-A text-analysis project inspired by automata theory, focused on identifying gendered wording and suggesting more inclusive alternatives.
+A text-analysis project inspired by automata theory, focused on identifying gendered wording and supporting more inclusive language.
 
-Python · HTML · CSS
+<sub>Python · HTML · CSS</sub>
 
-[View profile repositories →](https://github.com/msreaamparo-wq?tab=repositories)
+[Explore my repositories →](https://github.com/msreaamparo-wq?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### HINLO
-**Coastal litter management**
+### Current interests
+**Mobile apps and applied AI**
 
-A community-oriented app concept for litter reporting, cleanup coordination, and local environmental initiatives.
-
-Flutter · Supabase · PostgreSQL
-
-*In development*
+Exploring clean app architecture, backend integration, computer vision, and reliable data handling through coursework and personal projects.
 
 </td>
 </tr>
 </table>
 
-## Tools I Use
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,supabase,postgres,mysql,html,css,git,github,vscode,androidstudio&perline=7" alt="Python, Dart, Java, Flutter, Firebase, Supabase, PostgreSQL, MySQL, HTML, CSS, Git, GitHub, VS Code, Android Studio"/>
+<img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,supabase,postgres,mysql,html,css,git,github,vscode,androidstudio&perline=7" alt="Technologies and development tools"/>
 
 </div>
 
 <details>
-<summary><strong>Other technologies I'm exploring</strong></summary>
-<br/>
+<summary><strong>Technologies I'm exploring</strong></summary>
+
 JavaScript · TypeScript · Kotlin · C++ · C# · PHP · React · Node.js · Flask · FastAPI · TensorFlow · PyTorch · OpenCV · Docker · Figma
-<br/><br/>
-<sub>These are learning interests, not a claim of professional experience or mastery.</sub>
+
+<sub>These are areas I'm exploring; familiarity varies by technology.</sub>
 </details>
 
-## A Little More
+## GitHub at a Glance
 
-- **Currently focused on:** Flutter apps, backend integration, and computer-vision research.
-- **Working style:** Build a small version, test it, learn from it, then improve.
-- **Always learning:** Better architecture, accessible UI, and dependable software.
+<div align="center">
+
+<a href="https://github.com/msreaamparo-wq">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/msreaamparo-wq">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&hide_border=true&langs_count=8" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-[Repositories](https://github.com/msreaamparo-wq?tab=repositories) · [GitHub profile](https://github.com/msreaamparo-wq)
+[All repositories](https://github.com/msreaamparo-wq?tab=repositories) · [Contribution activity](https://github.com/msreaamparo-wq?tab=overview&from=2026-01-01&to=2026-12-31)
 
 <sub>Build with purpose. Keep learning.</sub>
 
