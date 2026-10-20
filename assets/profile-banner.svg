@@ -1,60 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Rea Amparo developer profile banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-label="Rea Amparo — a little digital garden">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#050B18"/>
-      <stop offset="0.52" stop-color="#081A33"/>
-      <stop offset="1" stop-color="#063B78"/>
-    </linearGradient>
-    <radialGradient id="orb1" cx="0.1" cy="0.2" r="0.8">
-      <stop offset="0" stop-color="#00C2FF" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#00C2FF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="orb2" cx="0.9" cy="0.85" r="0.7">
-      <stop offset="0" stop-color="#0A5BFF" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#0A5BFF" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#5AA7FF" stroke-opacity="0.09" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8f5ff"/><stop offset=".52" stop-color="#dce9ff"/><stop offset="1" stop-color="#eee4ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fff" stop-opacity=".98"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b8eaff"/><stop offset="1" stop-color="#5489ef"/></linearGradient>
+    <linearGradient id="lavender" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4d5ff"/><stop offset="1" stop-color="#8ba1f4"/></linearGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#7fa7e8" opacity=".22"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
   </defs>
-
-  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
-  <rect width="1600" height="420" rx="28" fill="url(#grid)"/>
-  <rect width="1600" height="420" rx="28" fill="url(#orb1)"/>
-  <rect width="1600" height="420" rx="28" fill="url(#orb2)"/>
-
-  <g opacity="0.75" fill="none" stroke="#35C9FF" stroke-width="2">
-    <path d="M1030 72h120v58h90"/>
-    <path d="M1170 310h120v-64h170"/>
-    <path d="M1315 90h70v84h145"/>
-    <path d="M1040 260h68v-70h130"/>
-  </g>
-
-  <g fill="#63D8FF" filter="url(#glow)">
-    <circle cx="1150" cy="72" r="4"/>
-    <circle cx="1240" cy="130" r="4"/>
-    <circle cx="1290" cy="310" r="4"/>
-    <circle cx="1385" cy="90" r="4"/>
-    <circle cx="1108" cy="190" r="4"/>
-  </g>
-
-  <g opacity="0.16" fill="#FFFFFF">
-    <circle cx="1460" cy="200" r="110"/>
-    <circle cx="1240" cy="110" r="60"/>
-  </g>
-
-  <text x="110" y="155" fill="#8EDFFF" font-family="monospace" font-size="22" letter-spacing="3">$ whoami</text>
-  <text x="110" y="225" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">REA AMPARO</text>
-  <text x="114" y="270" fill="#B6D7FF" font-family="Arial, Helvetica, sans-serif" font-size="25">COMPUTER SCIENCE • SOFTWARE DEVELOPMENT</text>
-  <text x="114" y="317" fill="#7EDCFF" font-family="monospace" font-size="20">mobile systems  /  backend  /  computer vision</text>
-
-  <g transform="translate(110,345)">
-    <rect width="260" height="34" rx="17" fill="#0A5BFF" fill-opacity="0.22" stroke="#2EA8FF" stroke-opacity="0.7"/>
-    <circle cx="19" cy="17" r="5" fill="#32D6FF"/>
-    <text x="34" y="23" fill="#D9F6FF" font-family="monospace" font-size="14">build • test • improve</text>
-  </g>
+  <rect width="1600" height="440" rx="32" fill="url(#sky)"/><rect width="1600" height="440" rx="32" fill="url(#dots)"/>
+  <circle cx="1350" cy="95" r="175" fill="#fff" opacity=".48" filter="url(#soft)"/><circle cx="1270" cy="105" r="63" fill="#fff" opacity=".34"/>
+  <path d="M0 350Q190 265 370 348T760 336T1150 350T1600 315V440H0Z" fill="#bdd8ff" opacity=".36"/><path d="M0 390Q250 315 470 380T890 365T1280 380T1600 355V440H0Z" fill="#d4caff" opacity=".42"/>
+  <g fill="#fff" opacity=".83"><path d="M1040 86l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/><path d="M1450 240l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/><path d="M950 298l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><circle cx="1125" cy="75" r="3"/><circle cx="1490" cy="150" r="4"/><circle cx="1010" cy="180" r="3"/></g>
+  <g transform="translate(1030 70)" opacity=".94"><circle cx="170" cy="100" r="91" fill="url(#glow)"/><circle cx="170" cy="100" r="47" fill="#fff5d6" opacity=".92"/><circle cx="188" cy="81" r="47" fill="#dfe9ff"/><g fill="none" stroke="#9eb8ed" stroke-width="1.5" opacity=".65"><path d="M30 210q95-100 190 0t190 0"/><path d="M66 240q90-62 180 0t180 0"/></g></g>
+  <g transform="translate(1240 208)"><path d="M0 62V14l29-20 29 20v48M58 62V0l30-22 30 22v62M118 62V23l23-16 23 16v39" fill="#c5d7ff" opacity=".75" stroke="#91ace6" stroke-width="2"/><path d="M18 62V29h21v33M75 62V17h23v45M130 62V34h20v28" fill="#f1f5ff" stroke="#91ace6" stroke-width="1.5"/><path d="M0 62h164" stroke="#8ba5dd" stroke-width="3" stroke-linecap="round"/></g>
+  <g transform="translate(1115 88)"><path d="M34 36C14 0-10 6 5 36c5 11 15 14 29 12Z" fill="url(#blue)" stroke="#638fe6" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" values="-5 33 35;7 33 35;-5 33 35" dur="1.2s" repeatCount="indefinite"/></path><path d="M36 36C56 0 80 6 65 36c-5 11-15 14-29 12Z" fill="url(#blue)" stroke="#638fe6" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" values="5 37 35;-7 37 35;5 37 35" dur="1.2s" repeatCount="indefinite"/></path><path d="M34 43C11 34 9 55 22 61c7 3 11-4 13-14M36 43c23-9 25 12 12 18-7 3-11-4-13-14" fill="url(#lavender)" stroke="#8799e9" stroke-width="1.5"/><ellipse cx="35" cy="41" rx="3" ry="13" fill="#496fc3"/><circle cx="35" cy="27" r="3.5" fill="#496fc3"/><path d="M34 25q-8-13-14-6M36 25q8-13 14-6" fill="none" stroke="#496fc3" stroke-width="1.5" stroke-linecap="round"/></g>
+  <g font-family="Trebuchet MS,Segoe UI,Arial,sans-serif"><text x="104" y="120" fill="#6687bd" font-size="19" font-weight="700" letter-spacing="5">✦ A LITTLE DIGITAL GARDEN ✦</text><text x="100" y="212" fill="#263b62" font-family="Georgia,serif" font-size="76" font-weight="600" letter-spacing="-2">REA AMPARO</text><text x="105" y="261" fill="#52709f" font-size="25" font-weight="600">Computer Science · Software Development</text><text x="105" y="306" fill="#5676ad" font-size="19">Mobile apps  ·  Web experiences  ·  Backend + data  ·  Computer vision</text><g transform="translate(105 342)"><rect width="260" height="39" rx="19.5" fill="#fff" fill-opacity=".6" stroke="#a4c4f3"/><circle cx="20" cy="19.5" r="5" fill="#6ba4f5"/><text x="36" y="25" fill="#486ba5" font-family="monospace" font-size="15">build · learn · refine</text></g></g>
 </svg>
