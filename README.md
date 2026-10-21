@@ -132,6 +132,20 @@ I like working across mobile and web interfaces, connecting apps to backend serv
 
 </div>
 
+## Contribution Arcade
+
+Watch Pac-Man move across your contribution history. The graph is generated automatically and refreshed daily.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg">
+  <img alt="Animated Pac-Man contribution graph showing my GitHub activity" src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<div align="center">
+
+</div>
+
 ---
 
 <div align="center">
