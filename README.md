@@ -29,11 +29,7 @@ I'm **Rea Amparo**, a Computer Science student interested in mobile development,
 
 <br/>
 
-### 2026 Contributions
-
-<sub>Year-to-date contribution count · January 1, 2026 onward</sub>
-
-<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true&starting_year=2026&hide_current_streak=true&hide_longest_streak=true" alt="GitHub total contributions for 2026"/>
+<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
