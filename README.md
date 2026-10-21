@@ -29,7 +29,7 @@ I'm **Rea Amparo**, a Computer Science student interested in mobile development,
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true&starting_year=2026" alt="GitHub contribution streak"/>
 
 </div>
 
