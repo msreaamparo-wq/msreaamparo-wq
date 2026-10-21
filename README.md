@@ -79,6 +79,20 @@ A computer-vision research project focused on classifying black pod rot severity
 <tr>
 <td width="50%" valign="top">
 
+### Our Little Archive ♡
+**A personal couple's memory journal**
+
+A Flutter app for keeping photos, dates, notes, favorite moments, and saved places in one private shared space.
+
+<sub>Flutter · Dart · Supabase · OpenStreetMap</sub>
+
+Made with love, with a special mention to **Kinson Busis**.
+
+[View repository →](https://github.com/msreaamparo-wq/it-s-a-love-story-baby)
+
+</td>
+<td width="50%" valign="top">
+
 ### GNLR
 **Gender-Neutral Language Recognizer**
 
