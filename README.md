@@ -49,67 +49,40 @@ Watch Pac-Man move across your contribution history. The graph is generated auto
 
 ## Featured Projects
 
+A few things I've built or am currently exploring.
+
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### TRACE
-**Campus attendance management**
-
-A Flutter app for campus events, QR-based attendance, role-based access, student records, and location verification.
-
-<sub>Flutter · Dart · Firebase</sub>
-
-[View repository →](https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System)
-
+<h3>TRACE</h3>
+<p><strong>Campus attendance management</strong></p>
+<p>A Flutter app for campus events, QR-based attendance, role-based access, and location verification.</p>
+<p><sub>Flutter · Dart · Firebase</sub></p>
+<p><a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">View repository →</a></p>
 </td>
 <td width="50%" valign="top">
-
-### Cacao Vision
-**Black pod rot severity research**
-
-A computer-vision research project focused on classifying black pod rot severity in cacao pods and exploring model optimization.
-
-<sub>Python · CNN · PyTorch · Flutter · TensorFlow Lite</sub>
-
-*Research in progress*
-
+<h3>Cacao Vision</h3>
+<p><strong>Black pod rot severity research</strong></p>
+<p>A computer-vision research project exploring cacao pod disease-severity classification and model optimization.</p>
+<p><sub>Python · CNN · PyTorch · Flutter · TensorFlow Lite</sub></p>
+<p><em>Research in progress</em></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### Our Little Archive ♡
-**A personal couple's memory journal**
-
-A Flutter app for keeping photos, dates, notes, favorite moments, and saved places in one private shared space.
-
-<sub>Flutter · Dart · Supabase · OpenStreetMap</sub>
-
-Made with love, with a special mention to **Kinson Busis**.
-
-[View repository →](https://github.com/msreaamparo-wq/it-s-a-love-story-baby)
-
+<h3>Our Little Archive ♡</h3>
+<p><strong>A personal couple's memory journal</strong></p>
+<p>A shared space for photos, dates, notes, favorite moments, and places worth remembering.</p>
+<p><sub>Flutter · Dart · Supabase · OpenStreetMap</sub></p>
+<p><em>made with love, 19... ♡</em></p>
+<p><a href="https://github.com/msreaamparo-wq/it-s-a-love-story-baby">View repository →</a></p>
 </td>
 <td width="50%" valign="top">
-
-### GNLR
-**Gender-Neutral Language Recognizer**
-
-A text-analysis web app that identifies configured gender-specific wording and suggests gender-neutral alternatives using finite-state automata.
-
-<sub>Python · Flask · HTML · CSS</sub>
-
-[View repository →](https://github.com/msreaamparo-wq/Gender-Neutral-Language-Recognizer)
-
-</td>
-<td width="50%" valign="top">
-
-### What I enjoy building
-**Practical software, from UI to data**
-
-I like working across mobile and web interfaces, connecting apps to backend services, and exploring how machine learning can help solve real-world problems.
-
+<h3>GNLR</h3>
+<p><strong>Gender-Neutral Language Recognizer</strong></p>
+<p>A Flask web app that spots configured gender-specific wording and suggests gender-neutral alternatives.</p>
+<p><sub>Python · Flask · HTML · CSS</sub></p>
+<p><a href="https://github.com/msreaamparo-wq/Gender-Neutral-Language-Recognizer">View repository →</a></p>
 </td>
 </tr>
 </table>
