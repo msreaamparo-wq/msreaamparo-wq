@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner-tech.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
+<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner-tech-v2.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
 
 ### Computer Science Student · App Developer
 
-Building mobile and web applications, exploring machine learning, and learning by shipping real projects.
+Building mobile and web applications, learning by building practical projects.
 
 [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub Activity](#github-at-a-glance)
 
