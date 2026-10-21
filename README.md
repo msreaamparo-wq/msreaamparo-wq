@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
+<img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner-tech.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
 
 ### Computer Science Student · App Developer
 
