@@ -17,7 +17,7 @@
     <text x="138" y="105" fill="#7fdcf3" font-size="17" font-weight="700" letter-spacing="4">COMPUTER SCIENCE / SOFTWARE DEVELOPMENT</text>
     <text x="132" y="202" fill="#f0f5fb" font-size="72" font-weight="700" letter-spacing="-2">REA AMPARO</text>
     <rect x="138" y="229" width="54" height="4" rx="2" fill="url(#accent)"/>
-    <text x="138" y="278" fill="#c1ccda" font-size="25" font-weight="500">Mobile apps · Web development · Applied machine learning</text>
+    <text x="138" y="278" fill="#c1ccda" font-size="25" font-weight="500">Mobile apps · Web development · Practical software</text>
     <text x="138" y="324" fill="#8495aa" font-family="Consolas, Menlo, monospace" font-size="17">build practical things. understand how they work.</text>
   </g>
   <g transform="translate(1090 92)">
@@ -27,7 +27,7 @@
     <g font-family="Consolas, Menlo, monospace" font-size="15">
       <text x="22" y="78" fill="#64758b">01</text><text x="52" y="78" fill="#7fdcf3">const</text><text x="101" y="78" fill="#dce6f3"> developer = {</text>
       <text x="22" y="111" fill="#64758b">02</text><text x="52" y="111" fill="#c5a7ff">  focus:</text><text x="122" y="111" fill="#a8d8a8">'software',</text>
-      <text x="22" y="144" fill="#64758b">03</text><text x="52" y="144" fill="#c5a7ff">  interests:</text><text x="154" y="144" fill="#a8d8a8">'apps + ML'</text>
+      <text x="22" y="144" fill="#64758b">03</text><text x="52" y="144" fill="#c5a7ff">  interests:</text><text x="154" y="144" fill="#a8d8a8">'mobile + web'</text>
       <text x="22" y="177" fill="#64758b">04</text><text x="52" y="177" fill="#dce6f3">};</text>
       <rect x="52" y="197" width="8" height="18" rx="1" fill="#59d7f5"/><text x="69" y="211" fill="#6e829b" font-size="12">ready to build_</text>
     </g>
