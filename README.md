@@ -4,7 +4,7 @@
 
 ### Computer Science Student · App Developer
 
-Building useful applications with clear interfaces and practical workflows.
+Building mobile and web applications, exploring machine learning, and learning by shipping real projects.
 
 [Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub Activity](#github-at-a-glance)
 
@@ -14,7 +14,7 @@ Building useful applications with clear interfaces and practical workflows.
 
 ## About
 
-I'm **Rea Amparo**, a Computer Science student interested in mobile development, web applications, database integration, and computer-vision research. I enjoy building applications that solve practical problems and refining them through testing and iteration.
+I'm **Rea Amparo**, a Computer Science student interested in mobile development, web applications, backend integration, and computer-vision research. I enjoy building practical software, testing ideas, and improving the details that make an application useful.
 
 ## Featured Projects
 
@@ -37,9 +37,9 @@ A Flutter app for campus events, QR-based attendance, role-based access, student
 ### Cacao Vision
 **Black pod rot severity research**
 
-Thesis research on image-based classification of black pod rot severity in cacao pods, with a CNN and Bayesian hyperparameter optimization.
+A computer-vision research project focused on classifying black pod rot severity in cacao pods and exploring model optimization.
 
-<sub>Python · PyTorch · Flutter · TensorFlow Lite</sub>
+<sub>Python · CNN · PyTorch · Flutter · TensorFlow Lite</sub>
 
 *Research in progress*
 
@@ -51,7 +51,7 @@ Thesis research on image-based classification of black pod rot severity in cacao
 ### GNLR
 **Gender-Neutral Language Recognizer**
 
-A text-analysis project inspired by automata theory, focused on identifying gendered wording and supporting more inclusive language.
+A text-analysis web app that identifies configured gender-specific wording and suggests gender-neutral alternatives using finite-state automata.
 
 <sub>Python · Flask · HTML · CSS</sub>
 
@@ -63,7 +63,7 @@ A text-analysis project inspired by automata theory, focused on identifying gend
 ### What I enjoy building
 **Practical software, from UI to data**
 
-I like working across mobile and web interfaces, connecting applications to backend services, and exploring how machine learning can solve real-world problems.
+I like working across mobile and web interfaces, connecting apps to backend services, and exploring how machine learning can help solve real-world problems.
 
 </td>
 </tr>
@@ -71,51 +71,49 @@ I like working across mobile and web interfaces, connecting applications to back
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,python,dart,html,css&perline=5&theme=dark" alt="JavaScript, Python, Dart, HTML, and CSS"/>
+<img src="https://skillicons.dev/icons?i=javascript,python,dart,html,css,java,kotlin,cs,php,ts&perline=5&theme=dark" alt="JavaScript, Python, Dart, HTML, CSS, Java, Kotlin, C sharp, PHP, and TypeScript"/>
 
 </div>
 
-### Frameworks and Platforms
+**Also:** SQL
+
+### Frameworks, Libraries & Platforms
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,flask,firebase&perline=5&theme=dark" alt="Flutter, Flask, and Firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,flask,firebase,react,nodejs,fastapi,bootstrap,tailwind&perline=4&theme=dark" alt="Flutter, Flask, Firebase, React, Node.js, FastAPI, Bootstrap, and Tailwind CSS"/>
 
 </div>
 
-**Used in projects:** Flutter for mobile apps; Flask for a Python web application; Firebase Authentication, Cloud Firestore, and Firebase Storage for app services.
+**App development:** Flutter, Provider, Firebase SDK, TensorFlow Lite Flutter integration  
+**Web development:** Flask, React, Node.js, FastAPI, Bootstrap, Tailwind CSS
 
-### Machine Learning and Data
+### Machine Learning & Data Science
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib&perline=5&theme=dark" alt="PyTorch, scikit-learn, NumPy, pandas, and Matplotlib"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,matplotlib&perline=6&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas, and Matplotlib"/>
 
 </div>
 
-**Project tools and libraries:** PyTorch, torchvision, scikit-learn, NumPy, pandas, Matplotlib, Pillow, TensorFlow Lite integration, and pytest for testing.
+**Libraries and methods:** torchvision, TensorFlow Lite, Seaborn, Pillow (PIL), CNNs, Bayesian hyperparameter optimization  
+**Additional tools:** Roboflow, YOLO
 
 ### Development Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=4&theme=dark" alt="Git, GitHub, Visual Studio Code, and Android Studio"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&perline=5&theme=dark" alt="Git, GitHub, Visual Studio Code, Android Studio, and Figma"/>
 
 </div>
 
-**Also used:** QR scanning, geolocation, local storage with Hive, PDF/DOCX text extraction, and Flutter packages for file handling and app features.
+**Also used:** Flutter SDK, Android SDK, Python/pip, pytest, PowerShell, Windows Terminal, Firebase Console, Google Colab
 
-<details>
-<summary><strong>Currently exploring</strong></summary>
-
-Supabase · TypeScript · React · Node.js · FastAPI · OpenCV · Docker · Figma · Bayesian hyperparameter optimization
-
-<sub>These are learning or research areas, so familiarity varies by tool.</sub>
-</details>
+<sub>The stack above describes technologies I work with across coursework, projects, and research. Each repository's README lists the tools relevant to that specific project.</sub>
 
 ## GitHub at a Glance
 
