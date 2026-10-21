@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Rea Amparo — Computer Science and software development">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset=".58" stop-color="#111d30"/><stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8aa0bd" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#59d7f5"/><stop offset="1" stop-color="#5794ff"/></linearGradient>
+  </defs>
+  <rect width="1600" height="420" rx="18" fill="url(#bg)"/><rect width="1600" height="420" rx="18" fill="url(#grid)"/>
+  <path d="M1120 0H1600V420H1310L1450 275 1285 158Z" fill="#1d2d45" opacity=".34"/>
+  <path d="M1190 0H1600M1360 0V420M1480 0V420M1200 105H1600M1200 210H1600M1200 315H1600" stroke="#8194ad" stroke-opacity=".10" stroke-width="1"/>
+  <path d="M0 0H14V420H0Z" fill="url(#accent)"/>
+  <path d="M94 78H134M94 78V118M94 342H134M94 302V342" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".8"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="138" y="105" fill="#7fdcf3" font-size="17" font-weight="700" letter-spacing="4">COMPUTER SCIENCE / SOFTWARE DEVELOPMENT</text>
+    <text x="132" y="202" fill="#f0f5fb" font-size="72" font-weight="700" letter-spacing="-2">REA AMPARO</text>
+    <rect x="138" y="229" width="54" height="4" rx="2" fill="url(#accent)"/>
+    <text x="138" y="278" fill="#c1ccda" font-size="25" font-weight="500">Mobile apps · Web development · Applied machine learning</text>
+    <text x="138" y="324" fill="#8495aa" font-family="Consolas, Menlo, monospace" font-size="17">build practical things. understand how they work.</text>
+  </g>
+  <g transform="translate(1090 92)">
+    <rect width="365" height="236" rx="12" fill="#0a111c" stroke="#34465d" stroke-width="1.5"/><path d="M0 42H365" stroke="#34465d" stroke-width="1.5"/>
+    <circle cx="22" cy="21" r="4.5" fill="#f07878"/><circle cx="39" cy="21" r="4.5" fill="#e8bd65"/><circle cx="56" cy="21" r="4.5" fill="#70c79b"/>
+    <text x="80" y="26" fill="#8293a9" font-family="Consolas, Menlo, monospace" font-size="12">project_notes.txt</text>
+    <g font-family="Consolas, Menlo, monospace" font-size="15">
+      <text x="22" y="78" fill="#64758b">01</text><text x="52" y="78" fill="#7fdcf3">const</text><text x="101" y="78" fill="#dce6f3"> developer = {</text>
+      <text x="22" y="111" fill="#64758b">02</text><text x="52" y="111" fill="#c5a7ff">  focus:</text><text x="122" y="111" fill="#a8d8a8">'software',</text>
+      <text x="22" y="144" fill="#64758b">03</text><text x="52" y="144" fill="#c5a7ff">  interests:</text><text x="154" y="144" fill="#a8d8a8">'apps + ML'</text>
+      <text x="22" y="177" fill="#64758b">04</text><text x="52" y="177" fill="#dce6f3">};</text>
+      <rect x="52" y="197" width="8" height="18" rx="1" fill="#59d7f5"/><text x="69" y="211" fill="#6e829b" font-size="12">ready to build_</text>
+    </g>
+  </g>
+  <path d="M1000 54v26h-26M1518 344h-26v26" fill="none" stroke="#59d7f5" stroke-width="2" opacity=".7"/>
+  <circle cx="1000" cy="54" r="3" fill="#59d7f5"/><circle cx="1518" cy="370" r="3" fill="#59d7f5"/>
+</svg>
