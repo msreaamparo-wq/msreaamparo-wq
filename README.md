@@ -14,7 +14,7 @@ Building useful applications with clear interfaces and practical workflows.
 
 ## About
 
-I'm **Rea Amparo**, a Computer Science student interested in mobile development, database integration, and computer-vision research. I enjoy building applications that solve practical problems and refining them through testing and iteration.
+I'm **Rea Amparo**, a Computer Science student interested in mobile development, web applications, database integration, and computer-vision research. I enjoy building applications that solve practical problems and refining them through testing and iteration.
 
 ## Featured Projects
 
@@ -39,7 +39,7 @@ A Flutter app for campus events, QR-based attendance, role-based access, student
 
 Thesis research on image-based classification of black pod rot severity in cacao pods, with a CNN and Bayesian hyperparameter optimization.
 
-<sub>Python · Computer Vision · CNN</sub>
+<sub>Python · PyTorch · Flutter · TensorFlow Lite</sub>
 
 *Research in progress*
 
@@ -53,17 +53,17 @@ Thesis research on image-based classification of black pod rot severity in cacao
 
 A text-analysis project inspired by automata theory, focused on identifying gendered wording and supporting more inclusive language.
 
-<sub>Python · HTML · CSS</sub>
+<sub>Python · Flask · HTML · CSS</sub>
 
-[Explore my repositories →](https://github.com/msreaamparo-wq?tab=repositories)
+[View repository →](https://github.com/msreaamparo-wq/Gender-Neutral-Language-Recognizer)
 
 </td>
 <td width="50%" valign="top">
 
-### Current interests
-**Mobile apps and applied AI**
+### What I enjoy building
+**Practical software, from UI to data**
 
-Exploring clean app architecture, backend integration, computer vision, and reliable data handling through coursework and personal projects.
+I like working across mobile and web interfaces, connecting applications to backend services, and exploring how machine learning can solve real-world problems.
 
 </td>
 </tr>
@@ -71,18 +71,50 @@ Exploring clean app architecture, backend integration, computer vision, and reli
 
 ## Tech Stack
 
+### Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,java,flutter,firebase,supabase,postgres,mysql,html,css,git,github,vscode,androidstudio&perline=7&theme=dark" alt="Technologies and development tools"/>
+<img src="https://skillicons.dev/icons?i=javascript,python,dart,html,css&perline=5&theme=dark" alt="JavaScript, Python, Dart, HTML, and CSS"/>
 
 </div>
 
+### Frameworks and Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,flask,firebase&perline=5&theme=dark" alt="Flutter, Flask, and Firebase"/>
+
+</div>
+
+**Used in projects:** Flutter for mobile apps; Flask for a Python web application; Firebase Authentication, Cloud Firestore, and Firebase Storage for app services.
+
+### Machine Learning and Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib&perline=5&theme=dark" alt="PyTorch, scikit-learn, NumPy, pandas, and Matplotlib"/>
+
+</div>
+
+**Project tools and libraries:** PyTorch, torchvision, scikit-learn, NumPy, pandas, Matplotlib, Pillow, TensorFlow Lite integration, and pytest for testing.
+
+### Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=4&theme=dark" alt="Git, GitHub, Visual Studio Code, and Android Studio"/>
+
+</div>
+
+**Also used:** QR scanning, geolocation, local storage with Hive, PDF/DOCX text extraction, and Flutter packages for file handling and app features.
+
 <details>
-<summary><strong>Technologies I'm exploring</strong></summary>
+<summary><strong>Currently exploring</strong></summary>
 
-JavaScript · TypeScript · Kotlin · C++ · C# · PHP · React · Node.js · Flask · FastAPI · TensorFlow · PyTorch · OpenCV · Docker · Figma
+Supabase · TypeScript · React · Node.js · FastAPI · OpenCV · Docker · Figma · Bayesian hyperparameter optimization
 
-<sub>These are areas I'm exploring; familiarity varies by technology.</sub>
+<sub>These are learning or research areas, so familiarity varies by tool.</sub>
 </details>
 
 ## GitHub at a Glance
