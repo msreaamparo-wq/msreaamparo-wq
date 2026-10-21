@@ -16,6 +16,37 @@ Building mobile and web applications, exploring machine learning, and learning b
 
 I'm **Rea Amparo**, a Computer Science student interested in mobile development, web applications, backend integration, and computer-vision research. I enjoy building practical software, testing ideas, and improving the details that make an application useful.
 
+## GitHub at a Glance
+
+<div align="center">
+
+<a href="https://github.com/msreaamparo-wq">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/msreaamparo-wq">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## Contribution Arcade
+
+Watch Pac-Man move across your contribution history. The graph is generated automatically and refreshed daily.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg">
+  <img alt="Animated Pac-Man contribution graph showing my GitHub activity" src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<div align="center">
+
+</div>
+
 ## Featured Projects
 
 <table>
@@ -114,37 +145,6 @@ I like working across mobile and web interfaces, connecting apps to backend serv
 **Also used:** Flutter SDK, Android SDK, Python/pip, pytest, PowerShell, Windows Terminal, Firebase Console, Google Colab
 
 <sub>The stack above describes technologies I work with across coursework, projects, and research. Each repository's README lists the tools relevant to that specific project.</sub>
-
-## GitHub at a Glance
-
-<div align="center">
-
-<a href="https://github.com/msreaamparo-wq">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msreaamparo-wq&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/msreaamparo-wq">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msreaamparo-wq&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=msreaamparo-wq&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-## Contribution Arcade
-
-Watch Pac-Man move across your contribution history. The graph is generated automatically and refreshed daily.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg">
-  <img alt="Animated Pac-Man contribution graph showing my GitHub activity" src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
-<div align="center">
-
-</div>
 
 ---
 
