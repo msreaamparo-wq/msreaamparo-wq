@@ -64,7 +64,7 @@ I like working across the development process—from planning an interface and w
       </ul>
       <p><sub><strong>Built with:</strong> HTML · CSS · JavaScript · Three.js</sub></p>
       <p><a href="https://msreaamparo-wq.github.io/"><strong>Visit live portfolio →</strong></a></p>
-      <p><a href="https://github.com/msreaamparo-wq/msreaamparo-wq">View source repository →</a></p>
+      <p><a href="https://github.com/msreaamparo-wq/Portfolio">View source repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · Cacao Vision</h3>
