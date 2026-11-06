@@ -2,97 +2,101 @@
 
 <img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner-tech-v2.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
 
-<h2>Hi, I'm Rea Amparo 👋</h2>
+<h1>Hi, I'm Rea Jamila Amparo 👋</h1>
 
-<p><strong>BS Computer Science Student · Software & Mobile Development · Applied Computer Vision</strong></p>
+<p><strong>Computer Science Student · Software Development · Applied Computer Vision</strong></p>
 
 <p>
-  I build practical applications, explore machine learning, and turn ideas into working software.
+  I build practical applications and interactive web experiences, and explore how machine learning can solve real-world problems.
   <br/>
-  Currently learning, building, and improving one project at a time.
+  Interested in the process behind good software: thoughtful interfaces, reliable logic, and useful results.
 </p>
 
 <p>
-  <a href="https://github.com/msreaamparo-wq/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Source%20Code-101827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code"/>
+  <a href="https://msreaamparo-wq.github.io/">
+    <img src="https://img.shields.io/badge/Explore-My%20Portfolio-171426?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my live portfolio"/>
   </a>
   <a href="https://github.com/msreaamparo-wq?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-101827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+    <img src="https://img.shields.io/badge/View-GitHub%20Projects-171426?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub projects"/>
   </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Mobile%20%26%20Web-8B7CFF?style=flat-square" alt="Mobile and web development"/>
+  <img src="https://img.shields.io/badge/EXPLORING-Computer%20Vision-57CDE8?style=flat-square" alt="Computer vision"/>
 </p>
 
 </div>
 
 ---
 
-## About
+## About me
 
-I'm a **BS Computer Science student** interested in building useful software and understanding how technology works from the inside out. My main areas of interest are **mobile application development, web development, and applied machine learning**.
+I'm a **BS Computer Science student** who enjoys turning ideas into working software. My interests span **mobile application development, web development, and applied machine learning**.
 
-I enjoy working across the development process—from shaping an interface and writing application logic to connecting backend services and testing how everything works together.
+I like working across the development process—from planning an interface and writing application logic to connecting backend services, testing features, and improving the overall experience.
 
-### Current focus
+### What I'm focused on
 
-- **Mobile development** — building Flutter applications and connecting them to backend services.
-- **Computer vision** — exploring CNN-based image classification, model evaluation, and mobile deployment.
-- **Web development** — creating responsive interfaces and learning better ways to build and ship web projects.
+- **Mobile development** — building Flutter applications and working with Firebase and backend services.
+- **Web development** — creating responsive websites and interactive front-end experiences.
+- **Computer vision** — exploring CNN-based image classification, model evaluation, and Bayesian hyperparameter optimization.
+- **Continuous learning** — strengthening my programming fundamentals through coursework, research, and hands-on projects.
 
 ---
 
-## Featured Projects
+## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · Cacao Vision</h3>
-      <p><strong>Black Pod Rot Severity Classification</strong></p>
-      <p>An ongoing thesis research project focused on classifying visible Black Pod Rot severity in cacao pods into Low, Moderate, and Severe. The study evaluates a baseline CNN against a Bayesian hyperparameter-optimized CNN.</p>
-      <p><sub>Python · CNN · Bayesian Optimization · Computer Vision · Flutter</sub></p>
-      <p><sub><strong>Status:</strong> Thesis research in progress · Source repository is private</sub></p>
+      <h3>01 · Interactive Developer Portfolio</h3>
+      <p>A cinematic portfolio experience built around a dark charcoal interface, violet and cyan accents, and an interactive Three.js scene.</p>
+      <ul>
+        <li>Three.js interactive 3D hero</li>
+        <li>Floating 3D elements and particle effects</li>
+        <li>Mouse-responsive movement and parallax</li>
+        <li>3D project-card hover interactions</li>
+        <li>Smooth scrolling and reveal animations</li>
+        <li>Responsive mobile navigation</li>
+        <li>Reduced-motion accessibility support</li>
+      </ul>
+      <p><sub><strong>Built with:</strong> HTML · CSS · JavaScript · Three.js</sub></p>
+      <p><a href="https://msreaamparo-wq.github.io/"><strong>Visit live portfolio →</strong></a></p>
+      <p><a href="https://github.com/msreaamparo-wq/msreaamparo-wq">View source repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · TRACE</h3>
-      <p><strong>SSG Attendance System</strong></p>
-      <p>A Flutter application prototype for managing school event attendance, with QR-based check-in, role-based access, and location-based validation.</p>
-      <p><sub>Flutter · Dart · Firebase · Cloud Firestore</sub></p>
-      <p><sub><strong>Status:</strong> Project prototype · Source repository is private</sub></p>
+      <h3>02 · Cacao Vision</h3>
+      <p><strong>Black Pod Rot Severity Classification</strong></p>
+      <p>An ongoing thesis project focused on classifying visible Black Pod Rot severity in cacao pods into <strong>Low, Moderate, and Severe</strong> categories.</p>
+      <p>The study compares a baseline CNN with a Bayesian hyperparameter-optimized CNN and aims to integrate the validated model into a mobile application.</p>
+      <p><sub><strong>Exploring:</strong> Python · CNN · Computer Vision · Bayesian Optimization · Flutter</sub></p>
+      <p><sub><strong>Status:</strong> Thesis research in progress · Source repository private</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Gender-Neutral Language Recognizer</h3>
-      <p>A Flask web application prototype that identifies configured gender-specific wording and suggests gender-neutral alternatives.</p>
-      <p><sub>Python · Flask · HTML · CSS · JavaScript</sub></p>
-      <p><sub><strong>Status:</strong> Prototype · Repository is currently private</sub></p>
+      <h3>03 · TRACE</h3>
+      <p><strong>SSG Attendance System</strong></p>
+      <p>A Flutter application prototype for managing school-event attendance. Its planned workflow includes QR-based event check-in, role-based access, and location-based validation.</p>
+      <p><sub><strong>Built with:</strong> Flutter · Dart · Firebase · Cloud Firestore</sub></p>
+      <p><sub><strong>Status:</strong> Application prototype · Source repository private</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · Personal Portfolio</h3>
-      <p>A personal website for presenting selected projects, technical interests, and development work, built with standard web technologies.</p>
-      <p><sub>HTML · CSS · JavaScript</sub></p>
-      <p><a href="https://github.com/msreaamparo-wq/Portfolio"><strong>View public repository →</strong></a></p>
+      <h3>04 · Gender-Neutral Language Recognizer</h3>
+      <p>An academic Flask web application that uses <strong>Finite State Automata (FSA)</strong> to identify configured gender-specific terms in text and suggest gender-neutral alternatives.</p>
+      <p>It supports direct text input and document analysis for TXT, DOCX, and text-based PDF files.</p>
+      <p><sub><strong>Built with:</strong> Python · Flask · FSA · HTML · CSS</sub></p>
+      <p><sub><strong>Status:</strong> Academic project · Source repository private</sub></p>
     </td>
   </tr>
 </table>
 
-## Portfolio Experience
-
-My portfolio combines a dark charcoal interface with violet and cyan accents, plus a motion-led interactive experience.
-
-- **Three.js interactive 3D hero** with a custom animated scene.
-- **Floating 3D elements and particles** add depth and ambient motion.
-- **Mouse-responsive movement** creates subtle scene and camera parallax.
-- **3D project card hover effects** with interactive perspective tilt.
-- **Smooth scrolling and reveal animations** as sections enter view.
-- **Responsive mobile navigation** with an accessible collapsible menu.
-- **Dark charcoal, violet, and cyan color palette** across the experience.
-- **Reduced-motion accessibility support** for visitors who prefer less animation.
-
-<a href="https://github.com/msreaamparo-wq/Portfolio"><strong>Explore the portfolio source code →</strong></a>
 ---
 
-## Tech Stack
+## Technology toolkit
 
-*Tools and technologies I use or explore through coursework, personal projects, and research.*
+*Technologies I use, have worked with, or continue to explore through projects and coursework.*
 
 ### Languages
 
@@ -102,16 +106,17 @@ My portfolio combines a dark charcoal interface with violet and cyan accents, pl
 
 **Also:** SQL
 
-### Frameworks & Platforms
+### Frameworks & platforms
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,flask,firebase,react,nodejs,fastapi,bootstrap,tailwind,supabase&perline=5&theme=dark" alt="Flutter, Flask, Firebase, React, Node.js, FastAPI, Bootstrap, Tailwind CSS, and Supabase"/>
 </div>
 
 **Mobile:** Flutter, Provider, TensorFlow Lite integration  
-**Web:** Flask, React, Node.js, FastAPI, Bootstrap, Tailwind CSS
+**Web:** Flask, React, Node.js, FastAPI, Bootstrap, Tailwind CSS  
+**Backend & services:** Firebase, Cloud Firestore, Supabase
 
-### Machine Learning & Data
+### Machine learning & data
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,matplotlib&perline=6&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas, and Matplotlib"/>
@@ -119,7 +124,7 @@ My portfolio combines a dark charcoal interface with violet and cyan accents, pl
 
 **Also exploring:** torchvision, Pillow, CNNs, Bayesian hyperparameter optimization, Roboflow, and YOLO.
 
-### Developer Tools
+### Developer tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&perline=5&theme=dark" alt="Git, GitHub, Visual Studio Code, Android Studio, and Figma"/>
@@ -129,7 +134,7 @@ My portfolio combines a dark charcoal interface with violet and cyan accents, pl
 
 ---
 
-## GitHub Activity
+## GitHub activity
 
 <div align="center">
 
@@ -146,14 +151,12 @@ My portfolio combines a dark charcoal interface with violet and cyan accents, pl
 
 </div>
 
-### Contribution Trail
-
-A contribution-history animation generated automatically with GitHub Actions.
+### Contribution trail
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg"/>
-  <img alt="Animated Pac-Man contribution graph showing GitHub activity" src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg" width="100%"/>
+  <img alt="Animated contribution graph showing GitHub activity" src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
 ---
@@ -162,8 +165,10 @@ A contribution-history animation generated automatically with GitHub Actions.
 
 **Build with purpose. Learn continuously. Make things that work.**
 
-<a href="https://github.com/msreaamparo-wq?tab=repositories">Browse repositories</a>
+<a href="https://msreaamparo-wq.github.io/">Portfolio</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/msreaamparo-wq/Portfolio">Portfolio source</a>
+<a href="https://github.com/msreaamparo-wq?tab=repositories">Repositories</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/msreaamparo-wq">GitHub profile</a>
 
 </div>
