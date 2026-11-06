@@ -2,11 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/main/assets/profile-banner-tech-v2.svg" width="100%" alt="Rea Amparo — Computer Science and software development"/>
 
-### Computer Science Student · App Developer
+### Computer Science Student · Software & Mobile Development
 
-Building mobile and web applications, learning by building practical projects.
+Building practical applications, exploring computer vision, and learning through hands-on projects.
 
-[Projects](#featured-projects) · [Tech Stack](#tech-stack) · [GitHub Activity](#github-at-a-glance)
+[About](#about) · [Selected Work](#selected-work) · [Tech Stack](#tech-stack) · [GitHub Activity](#github-activity)
+
+<a href="https://github.com/msreaamparo-wq/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-View%20source-1f6feb?style=flat-square&logo=github&logoColor=white" alt="View portfolio source code"/>
+</a>
 
 </div>
 
@@ -14,9 +18,121 @@ Building mobile and web applications, learning by building practical projects.
 
 ## About
 
-I'm **Rea Amparo**, a Computer Science student interested in mobile development, web applications, backend integration, and computer-vision research. I enjoy building practical software, testing ideas, and improving the details that make an application useful.
+Hi, I'm **Rea Amparo**, a BS Computer Science student interested in mobile application development, web engineering, and applied computer vision. I enjoy turning ideas into usable software, learning by building, and improving the details that make an application clear and reliable.
 
-## GitHub at a Glance
+### What I'm focused on
+
+- **Mobile development** — building Flutter applications and integrating app features with backend services.
+- **Computer vision & machine learning** — exploring image classification, CNNs, model evaluation, and mobile model deployment.
+- **Web development** — creating interactive interfaces and connecting them to backend functionality.
+
+I value maintainable code, thoughtful interfaces, and understanding how each part of a system works.
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### TRACE — SSG Attendance System
+
+A Flutter-based attendance application prototype for managing school events. It includes QR-based attendance, role-based access, and location-based validation, with Firebase as its backend.
+
+<sub>Flutter · Dart · Firebase · Firestore</sub>
+
+<br/>
+<sub>**Status:** Project prototype · Source code is private</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Cacao Vision — Black Pod Rot Research
+
+An ongoing computer-vision research project focused on classifying visible Black Pod Rot severity in cacao pods as **Low, Moderate, or Severe**. The study compares a baseline CNN with a Bayesian hyperparameter-optimized CNN.
+
+<sub>Python · PyTorch · CNN · Bayesian Optimization · Flutter</sub>
+
+<br/>
+<sub>**Status:** Thesis research in progress · Source code is private</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Gender-Neutral Language Recognizer
+
+A Flask web application prototype that detects configured gender-specific wording and suggests gender-neutral alternatives.
+
+<sub>Python · Flask · HTML · CSS</sub>
+
+<br/>
+<sub>**Status:** Prototype · Source code is private</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+
+A personal web portfolio for presenting selected projects, technical interests, and development work.
+
+<sub>HTML · CSS · JavaScript</sub>
+
+<br/>
+<a href="https://github.com/msreaamparo-wq/Portfolio">View source repository →</a>
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+*Technologies I use or explore across coursework, projects, and research.*
+
+### Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,dart,javascript,typescript,java,kotlin,cs,php,html,css&perline=5&theme=dark" alt="Python, Dart, JavaScript, TypeScript, Java, Kotlin, C sharp, PHP, HTML, and CSS"/>
+
+</div>
+
+**Also:** SQL
+
+### Frameworks, Libraries & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,flask,firebase,react,nodejs,fastapi,bootstrap,tailwind,supabase&perline=5&theme=dark" alt="Flutter, Flask, Firebase, React, Node.js, FastAPI, Bootstrap, Tailwind CSS, and Supabase"/>
+
+</div>
+
+**Mobile:** Flutter, Provider, Firebase SDK, TensorFlow Lite integration  
+**Web:** Flask, React, Node.js, FastAPI, Bootstrap, Tailwind CSS
+
+### Machine Learning & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,matplotlib&perline=6&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas, and Matplotlib"/>
+
+</div>
+
+**Also exploring:** torchvision, TensorFlow Lite, Pillow, CNNs, Bayesian hyperparameter optimization, Roboflow, and YOLO.
+
+### Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&perline=5&theme=dark" alt="Git, GitHub, Visual Studio Code, Android Studio, and Figma"/>
+
+</div>
+
+**Also used:** Google Colab, Android SDK, Flutter SDK, Firebase Console, Python/pip, pytest, and PowerShell.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -33,9 +149,9 @@ I'm **Rea Amparo**, a Computer Science student interested in mobile development,
 
 </div>
 
-## Contribution Arcade
+### Contribution Trail
 
-Watch Pac-Man move across your contribution history. The graph is generated automatically and refreshed daily.
+A Pac-Man view of my contribution history, generated automatically with GitHub Actions.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph-dark.svg">
@@ -43,102 +159,12 @@ Watch Pac-Man move across your contribution history. The graph is generated auto
   <img alt="Animated Pac-Man contribution graph showing my GitHub activity" src="https://raw.githubusercontent.com/msreaamparo-wq/msreaamparo-wq/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-<div align="center">
-
-</div>
-
-## Featured Projects
-
-A few things I've built or am currently exploring.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>TRACE</h3>
-<p><strong>Campus attendance management</strong></p>
-<p>A Flutter app for campus events, QR-based attendance, role-based access, and location verification.</p>
-<p><sub>Flutter · Dart · Firebase</sub></p>
-<p><a href="https://github.com/msreaamparo-wq/TRACE-SSG-Attendance-System">View repository →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Cacao Vision</h3>
-<p><strong>Black pod rot severity research</strong></p>
-<p>A computer-vision research project exploring cacao pod disease-severity classification and model optimization.</p>
-<p><sub>Python · CNN · PyTorch · Flutter · TensorFlow Lite</sub></p>
-<p><em>Research in progress</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Our Little Archive ♡</h3>
-<p><strong>A personal couple's memory journal</strong></p>
-<p>A shared space for photos, dates, notes, favorite moments, and places worth remembering.</p>
-<p><sub>Flutter · Dart · Supabase · OpenStreetMap</sub></p>
-<p><em>made with love, 19... ♡</em></p>
-<p><a href="https://github.com/msreaamparo-wq/it-s-a-love-story-baby">View repository →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>GNLR</h3>
-<p><strong>Gender-Neutral Language Recognizer</strong></p>
-<p>A Flask web app that spots configured gender-specific wording and suggests gender-neutral alternatives.</p>
-<p><sub>Python · Flask · HTML · CSS</sub></p>
-<p><a href="https://github.com/msreaamparo-wq/Gender-Neutral-Language-Recognizer">View repository →</a></p>
-</td>
-</tr>
-</table>
-
-## Tech Stack
-
-### Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,python,dart,html,css,java,kotlin,cs,php,ts&perline=5&theme=dark" alt="JavaScript, Python, Dart, HTML, CSS, Java, Kotlin, C sharp, PHP, and TypeScript"/>
-
-</div>
-
-**Also:** SQL
-
-### Frameworks, Libraries & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,flask,firebase,react,nodejs,fastapi,bootstrap,tailwind&perline=4&theme=dark" alt="Flutter, Flask, Firebase, React, Node.js, FastAPI, Bootstrap, and Tailwind CSS"/>
-
-</div>
-
-**App development:** Flutter, Provider, Firebase SDK, TensorFlow Lite Flutter integration  
-**Web development:** Flask, React, Node.js, FastAPI, Bootstrap, Tailwind CSS
-
-### Machine Learning & Data Science
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,matplotlib&perline=6&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas, and Matplotlib"/>
-
-</div>
-
-**Libraries and methods:** torchvision, TensorFlow Lite, Seaborn, Pillow (PIL), CNNs, Bayesian hyperparameter optimization  
-**Additional tools:** Roboflow, YOLO
-
-### Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&perline=5&theme=dark" alt="Git, GitHub, Visual Studio Code, Android Studio, and Figma"/>
-
-</div>
-
-**Also used:** Flutter SDK, Android SDK, Python/pip, pytest, PowerShell, Windows Terminal, Firebase Console, Google Colab
-
-<sub>The stack above describes technologies I work with across coursework, projects, and research. Each repository's README lists the tools relevant to that specific project.</sub>
-
 ---
 
 <div align="center">
 
-[All repositories](https://github.com/msreaamparo-wq?tab=repositories) · [Contribution activity](https://github.com/msreaamparo-wq?tab=overview)
+[Explore all repositories](https://github.com/msreaamparo-wq?tab=repositories) · [View my portfolio source](https://github.com/msreaamparo-wq/Portfolio)
 
-<sub>Build with purpose. Keep learning.</sub>
+**Build with purpose. Keep learning.**
 
 </div>
