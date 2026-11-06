@@ -74,6 +74,19 @@ I enjoy working across the development process—from shaping an interface and w
   </tr>
 </table>
 
+## Portfolio Experience
+
+My portfolio combines a dark charcoal interface with violet and cyan accents, plus a motion-led interactive experience.
+
+- **Three.js interactive 3D hero** with floating geometric elements and particles.
+- **Mouse-responsive movement** across the 3D scene.
+- **3D project card hover effects** with perspective tilt.
+- **Smooth scrolling and reveal animations** as sections enter view.
+- **Responsive mobile navigation** for smaller screens.
+- **Reduced-motion support** for visitors who prefer less animation.
+
+<a href="https://github.com/msreaamparo-wq/Portfolio"><strong>Explore the portfolio source code →</strong></a>
+
 ---
 
 ## Tech Stack
