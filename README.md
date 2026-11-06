@@ -54,11 +54,12 @@ I like working across the development process—from planning an interface and w
       <p>A cinematic portfolio experience built around a dark charcoal interface, violet and cyan accents, and an interactive Three.js scene.</p>
       <ul>
         <li>Three.js interactive 3D hero</li>
-        <li>Floating 3D elements and particle effects</li>
-        <li>Mouse-responsive movement and parallax</li>
-        <li>3D project-card hover interactions</li>
+        <li>Floating 3D elements and particles</li>
+        <li>Mouse-responsive movement</li>
+        <li>3D project-card hover effects</li>
         <li>Smooth scrolling and reveal animations</li>
         <li>Responsive mobile navigation</li>
+        <li>Dark charcoal, violet, and cyan color palette</li>
         <li>Reduced-motion accessibility support</li>
       </ul>
       <p><sub><strong>Built with:</strong> HTML · CSS · JavaScript · Three.js</sub></p>
