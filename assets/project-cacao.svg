@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="310" viewBox="0 0 760 310" role="img" aria-label="Cacao pod disease severity research preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10251f"/><stop offset="1" stop-color="#1d3c30"/></linearGradient>
+    <linearGradient id="pod" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c99a52"/><stop offset=".55" stop-color="#8c5b32"/><stop offset="1" stop-color="#4c3429"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9bc88a"/><stop offset="1" stop-color="#426b4c"/></linearGradient>
+  </defs>
+  <rect width="760" height="310" rx="18" fill="url(#bg)"/>
+  <path d="M0 245Q180 180 340 263T760 235V310H0Z" fill="#0a1814" opacity=".4"/>
+  <g transform="translate(480 19) rotate(18 100 130)">
+    <path d="M104 30C58 44 32 96 47 153c11 43 38 80 65 105 27-25 54-62 65-105 15-57-11-109-57-123-5-2-11-2-16 0Z" fill="url(#pod)" stroke="#e0bb7c" stroke-width="2"/>
+    <path d="M112 34Q82 88 90 150T112 258M112 34Q145 87 135 150T112 258" fill="none" stroke="#e9c88d" stroke-opacity=".5" stroke-width="5"/>
+    <path d="M104 33Q112 17 120 33" fill="none" stroke="#d9bc83" stroke-width="5" stroke-linecap="round"/>
+    <path d="M59 93Q78 72 89 76M147 78Q166 77 173 103M54 157Q75 138 88 146M137 145Q160 139 170 162" stroke="#3a2922" stroke-width="8" opacity=".62" stroke-linecap="round"/>
+    <path d="M112 24Q150 -2 181 10Q158 38 116 38Z" fill="url(#leaf)" stroke="#b2d49b" stroke-width="1.5"/>
+  </g>
+  <text x="48" y="63" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#a9d6ad">COMPUTER VISION RESEARCH</text>
+  <text x="48" y="119" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#f3f5e9">CACAO</text>
+  <text x="48" y="163" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#b5d8a8">VISION</text>
+  <text x="50" y="190" font-family="Arial,sans-serif" font-size="14" fill="#d0dfcc">Black Pod Rot severity classification</text>
+  <g transform="translate(49 220)">
+    <rect width="105" height="37" rx="8" fill="#244b37" stroke="#83bd8b"/><circle cx="17" cy="18" r="5" fill="#8bc89a"/><text x="31" y="23" font-family="Arial,sans-serif" font-size="12" fill="#e6f4e3">LOW</text>
+    <rect x="116" width="128" height="37" rx="8" fill="#4a4930" stroke="#c4b86e"/><circle cx="133" cy="18" r="5" fill="#e3c96a"/><text x="147" y="23" font-family="Arial,sans-serif" font-size="12" fill="#f5f0d7">MODERATE</text>
+    <rect x="255" width="112" height="37" rx="8" fill="#55352e" stroke="#c57b64"/><circle cx="272" cy="18" r="5" fill="#d98269"/><text x="286" y="23" font-family="Arial,sans-serif" font-size="12" fill="#f5e8df">SEVERE</text>
+  </g>
+</svg>
