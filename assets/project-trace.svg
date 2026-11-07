@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="310" viewBox="0 0 760 310" role="img" aria-label="TRACE QR attendance application preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d35"/><stop offset="1" stop-color="#172b4a"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe09a"/><stop offset="1" stop-color="#d99a32"/></linearGradient>
+  </defs>
+  <rect width="760" height="310" rx="18" fill="url(#bg)"/>
+  <path d="M0 264Q180 180 350 255T760 225V310H0Z" fill="#091426" opacity=".5"/>
+  <text x="48" y="61" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#f0c76d">MOBILE APPLICATION</text>
+  <text x="48" y="126" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#f7f8fc">TRACE</text>
+  <text x="51" y="156" font-family="Arial,sans-serif" font-size="15" fill="#bcc9dd">SSG Attendance System</text>
+  <g transform="translate(48 190)">
+    <rect width="125" height="36" rx="8" fill="#233c60" stroke="#4d678b"/><text x="17" y="23" font-family="Arial,sans-serif" font-size="12" fill="#e7edf7">QR CHECK-IN</text>
+    <rect x="136" width="120" height="36" rx="8" fill="#233c60" stroke="#4d678b"/><text x="152" y="23" font-family="Arial,sans-serif" font-size="12" fill="#e7edf7">FIREBASE</text>
+  </g>
+  <g transform="translate(460 24)">
+    <rect x="16" y="0" width="196" height="270" rx="26" fill="#060d19" stroke="#526783" stroke-width="2"/>
+    <rect x="27" y="15" width="174" height="241" rx="17" fill="#f4f6fa"/>
+    <rect x="91" y="7" width="47" height="5" rx="3" fill="#526783"/>
+    <text x="43" y="48" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#14243e">EVENT CHECK-IN</text>
+    <text x="43" y="68" font-family="Arial,sans-serif" font-size="9" fill="#728099">Scan your event QR code</text>
+    <rect x="62" y="87" width="104" height="104" rx="7" fill="#fff" stroke="#d5dce7"/>
+    <g fill="#14243e">
+      <path d="M72 97h29v29H72zM78 103v17h17v-17zM127 97h29v29h-29zM133 103v17h17v-17zM72 152h29v29H72zM78 158v17h17v-17z"/>
+      <path d="M109 97h8v8h-8zM109 113h8v8h-8zM109 129h8v8h-8zM125 137h8v8h-8zM141 137h8v8h-8zM109 153h8v8h-8zM125 161h8v8h-8zM141 177h8v8h-8zM157 153h8v8h-8zM157 169h8v8h-8z"/>
+    </g>
+    <rect x="49" y="205" width="130" height="29" rx="8" fill="url(#gold)"/><text x="85" y="224" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#17243a">SCAN QR</text>
+  </g>
+</svg>
