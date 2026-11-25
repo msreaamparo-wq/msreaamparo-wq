@@ -81,27 +81,6 @@
 
 ---
 
-## [Achievements](https://github.com/msreaamparo-wq?tab=achievements)
-
-<div align="center">
-
-<a href="https://github.com/msreaamparo-wq?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="76" height="76" alt="Achievement: Pair Extraordinaire" title="Pair Extraordinaire" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="76" height="76" alt="Achievement: Quickdraw" title="Quickdraw" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="76" height="76" alt="Achievement: Starstruck" title="Starstruck" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=galaxy-brain&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="76" height="76" alt="Achievement: Galaxy Brain" title="Galaxy Brain" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="76" height="76" alt="Achievement: Pull Shark" title="Pull Shark" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="76" height="76" alt="Achievement: YOLO" title="YOLO" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=public-sponsor&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="76" height="76" alt="Achievement: Public Sponsor" title="Public Sponsor" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=finishing-touch&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/finishing-touch-default.png" width="76" height="76" alt="Achievement: Finishing Touch" title="Finishing Touch" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=arctic-code-vault-contributor&tab=achievements"><img src="https://raw.githubusercontent.com/christianalberto/github-profile-achievements/main/media/badges/arctic-code-vault.png" width="76" height="76" alt="Achievement: Arctic Code Vault Contributor (retired)" title="Arctic Code Vault Contributor (retired)" /></a>
-<a href="https://github.com/msreaamparo-wq?achievement=mars-2020-contributor&tab=achievements"><img src="https://raw.githubusercontent.com/christianalberto/github-profile-achievements/main/media/badges/mars-2020.png" width="76" height="76" alt="Achievement: Mars 2020 Contributor (retired)" title="Mars 2020 Contributor (retired)" /></a>
-
-<p><sub>Badge gallery · Actual earned achievements are awarded by GitHub when account activity meets the requirements. The Arctic Code Vault and Mars 2020 badges are retired.</sub></p>
-
-</div>
-
----
-
 ## GitHub overview
 
 <div align="center">
